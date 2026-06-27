@@ -1,0 +1,7 @@
+PyQt6>=6.5.0
+opencv-python>=4.8.0
+numpy>=1.24.0
+pyopengl>=3.1.7
+Pillow>=10.0.0
+bcrypt>=4.0.1
+pyqtgraph>=0.13.3

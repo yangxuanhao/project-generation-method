@@ -1,0 +1,81 @@
+QMainWindow, QDialog, QWidget {
+    background: #121820;
+    color: #E8EEF5;
+    font-family: "Microsoft YaHei", "SimHei";
+    font-size: 13px;
+}
+QLineEdit, QTextEdit, QPlainTextEdit, QComboBox, QSpinBox, QDoubleSpinBox {
+    background: #1B2531;
+    color: #F4F7FB;
+    border: 1px solid #2D4054;
+    border-radius: 8px;
+    padding: 6px;
+}
+QPushButton {
+    background: #253447;
+    color: #F5F8FE;
+    border: 1px solid #3D536E;
+    border-radius: 10px;
+    padding: 8px 12px;
+}
+QPushButton:hover {
+    background: #2F4864;
+    border: 1px solid #65B7FF;
+}
+QPushButton:pressed {
+    background: #1C6DA5;
+}
+QPushButton#PrimaryButton {
+    background: #0D6EFD;
+    border: 1px solid #72B7FF;
+    font-weight: bold;
+}
+QPushButton#DangerButton {
+    background: #8F1E2E;
+    border: 1px solid #FF6B7C;
+}
+QPushButton#SuccessButton {
+    background: #136B48;
+    border: 1px solid #48D18D;
+}
+QLabel#TitleLabel {
+    font-size: 18px;
+    font-weight: bold;
+    color: #FFFFFF;
+}
+QFrame#PanelCard, QGroupBox {
+    background: #17212D;
+    border: 1px solid #2C3E50;
+    border-radius: 14px;
+    margin-top: 10px;
+}
+QGroupBox::title {
+    subcontrol-origin: margin;
+    left: 12px;
+    padding: 0px 6px;
+    color: #8FD3FF;
+}
+QListWidget, QTableWidget {
+    background: #101923;
+    alternate-background-color: #182434;
+    color: #EAF2FA;
+    border: 1px solid #2C3E50;
+    border-radius: 10px;
+}
+QListWidget::item:selected, QTableWidget::item:selected {
+    background: #245D86;
+}
+QTabWidget::pane {
+    border: 1px solid #2C3E50;
+    border-radius: 10px;
+}
+QProgressBar {
+    background: #1B2531;
+    border: 1px solid #2D4054;
+    border-radius: 8px;
+    text-align: center;
+}
+QProgressBar::chunk {
+    background: #0DCAF0;
+    border-radius: 8px;
+}

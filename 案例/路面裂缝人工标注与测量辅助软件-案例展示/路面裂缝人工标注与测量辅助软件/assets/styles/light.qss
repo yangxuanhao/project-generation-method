@@ -1,0 +1,105 @@
+
+QWidget {
+    background: #f6f8fb;
+    color: #223042;
+    font-family: "Microsoft YaHei";
+    font-size: 12px;
+}
+QMainWindow, QDialog {
+    background: #f6f8fb;
+}
+QLabel#TitleLabel {
+    font-size: 24px;
+    font-weight: 700;
+    color: #1e2f45;
+    padding: 4px 0;
+}
+QFrame#PanelCard, QGroupBox, QListWidget, QTextEdit, QLineEdit, QComboBox, QProgressBar, QStackedWidget {
+    background: white;
+    border: 1px solid #d9e1eb;
+    border-radius: 10px;
+}
+QFrame#PanelCard {
+    border-radius: 14px;
+}
+QGroupBox {
+    margin-top: 8px;
+    padding-top: 12px;
+    font-weight: 600;
+}
+QGroupBox::title {
+    subcontrol-origin: margin;
+    left: 10px;
+    padding: 0 4px;
+    color: #41566f;
+}
+QListWidget, QTextEdit {
+    padding: 6px;
+}
+QLineEdit, QComboBox, QPushButton {
+    min-height: 30px;
+    border-radius: 8px;
+    border: 1px solid #cdd8e6;
+    background: white;
+    padding: 4px 8px;
+}
+QPushButton:hover { border-color: #5d8dff; }
+QPushButton#PrimaryButton {
+    background: #4f82ff;
+    color: white;
+    border: 1px solid #4f82ff;
+    font-weight: 600;
+}
+QPushButton#PrimaryButton:hover { background: #3972f8; }
+QPushButton#SuccessButton {
+    background: #26b26e;
+    color: white;
+    border: 1px solid #26b26e;
+    font-weight: 600;
+}
+QPushButton#DangerButton {
+    background: #e95a6d;
+    color: white;
+    border: 1px solid #e95a6d;
+    font-weight: 600;
+}
+QProgressBar {
+    min-height: 20px;
+    text-align: center;
+    border-radius: 8px;
+}
+QProgressBar::chunk {
+    border-radius: 7px;
+    background: #4f82ff;
+}
+QScrollBar:vertical {
+    width: 10px;
+    background: transparent;
+}
+QScrollBar::handle:vertical {
+    background: #c7d4e8;
+    border-radius: 4px;
+    min-height: 20px;
+}
+QStatusBar {
+    background: white;
+    border-top: 1px solid #d9e1eb;
+}
+
+
+QScrollArea {
+    background: transparent;
+    border: none;
+}
+QScrollArea > QWidget > QWidget {
+    background: transparent;
+}
+QLineEdit, QComboBox {
+    min-height: 26px;
+}
+QPushButton {
+    min-height: 28px;
+}
+QTextEdit {
+    min-height: 70px;
+}

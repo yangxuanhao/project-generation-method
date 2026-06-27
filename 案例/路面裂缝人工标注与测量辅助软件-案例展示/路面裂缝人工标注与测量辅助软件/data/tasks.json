@@ -1,0 +1,6322 @@
+[
+  {
+    "task_id": "任务-8e588fdd",
+    "road_name": "G320示范路段",
+    "image_path": "E:\\项目\\6.9\\路面裂缝标注软件\\assets\\samples\\sample_road_crack_1.png",
+    "pavement_type": "沥青路面",
+    "station_start": "K12+000",
+    "station_end": "K12+100",
+    "lane": "上行一车道",
+    "location_name": "未注明位置",
+    "longitude": "",
+    "latitude": "",
+    "road_level": "一般公路",
+    "direction": "上行",
+    "section_note": "",
+    "source_type": "普通路面影像",
+    "collector": "演示采集员",
+    "annotator": "当前用户",
+    "status": "标注中",
+    "meter_per_pixel": 0.0017250805062932557,
+    "cracks": [
+      {
+        "crack_id": "裂缝-9893cc45",
+        "points": [
+          [
+            694.6524064171124,
+            323.10160427807483
+          ],
+          [
+            571.0200534759358,
+            279.3776737967913
+          ],
+          [
+            593.1410427807486,
+            217.72860962566835
+          ],
+          [
+            712.2994652406417,
+            199.00868983957213
+          ],
+          [
+            821.9251336898395,
+            256.7914438502673
+          ]
+        ],
+        "crack_type": "斜向裂缝",
+        "suggestion_type": "横向裂缝",
+        "severity": "轻微",
+        "review_status": "待复核",
+        "review_comment": "",
+        "locked": false,
+        "ignored": false,
+        "source": "人工描绘",
+        "width_samples": [],
+        "repair_method": "灌缝胶修补",
+        "material_amount": 0.0,
+        "material_unit": "升",
+        "station": "未绑定",
+        "created_at": "2026-06-09 13:05:01"
+      }
+    ],
+    "regions": [],
+    "candidates": [],
+    "review_logs": [],
+    "created_at": "2026-06-09 13:04:23",
+    "updated_at": "2026-06-09 13:05:01"
+  },
+  {
+    "task_id": "任务-df8047c6",
+    "road_name": "G320示范路段",
+    "image_path": "E:\\项目\\6.9\\路面裂缝标注软件\\assets\\samples\\realistic_sample_2.png",
+    "pavement_type": "沥青路面",
+    "station_start": "K12+000",
+    "station_end": "K12+100",
+    "lane": "上行一车道",
+    "location_name": "未注明位置",
+    "longitude": "",
+    "latitude": "",
+    "road_level": "一般公路",
+    "direction": "上行",
+    "section_note": "",
+    "source_type": "普通路面影像",
+    "collector": "演示采集员",
+    "annotator": "当前用户",
+    "status": "待标注",
+    "meter_per_pixel": null,
+    "cracks": [],
+    "regions": [],
+    "candidates": [],
+    "review_logs": [],
+    "created_at": "2026-06-09 13:29:05",
+    "updated_at": "2026-06-09 13:29:05"
+  },
+  {
+    "task_id": "任务-360c04d4",
+    "road_name": "G320示范路段",
+    "image_path": "E:\\项目\\6.9\\路面裂缝标注软件\\assets\\samples\\realistic_sample_3.png",
+    "pavement_type": "水泥混凝土路面",
+    "station_start": "K12+000",
+    "station_end": "K12+100",
+    "lane": "上行一车道",
+    "location_name": "未注明位置",
+    "longitude": "",
+    "latitude": "",
+    "road_level": "一般公路",
+    "direction": "上行",
+    "section_note": "",
+    "source_type": "普通路面影像",
+    "collector": "演示采集员",
+    "annotator": "当前用户",
+    "status": "待标注",
+    "meter_per_pixel": null,
+    "cracks": [],
+    "regions": [],
+    "candidates": [],
+    "review_logs": [],
+    "created_at": "2026-06-09 13:49:47",
+    "updated_at": "2026-06-09 13:49:47"
+  },
+  {
+    "task_id": "任务-7b89771e",
+    "road_name": "G320示范路段",
+    "image_path": "E:\\项目\\6.9\\路面裂缝标注软件\\assets\\samples\\realistic_sample_4.png",
+    "pavement_type": "水泥混凝土路面",
+    "station_start": "K12+000",
+    "station_end": "K12+100",
+    "lane": "上行一车道",
+    "location_name": "未注明位置",
+    "longitude": "",
+    "latitude": "",
+    "road_level": "一般公路",
+    "direction": "上行",
+    "section_note": "",
+    "source_type": "普通路面影像",
+    "collector": "演示采集员",
+    "annotator": "当前用户",
+    "status": "待标注",
+    "meter_per_pixel": null,
+    "cracks": [],
+    "regions": [],
+    "candidates": [],
+    "review_logs": [],
+    "created_at": "2026-06-09 13:49:48",
+    "updated_at": "2026-06-09 13:49:48"
+  },
+  {
+    "task_id": "任务-06bbf16c",
+    "road_name": "G320示范路段",
+    "image_path": "E:\\项目\\6.9\\路面裂缝标注软件\\assets\\samples\\sample_road_crack_1.png",
+    "pavement_type": "水泥混凝土路面",
+    "station_start": "K12+000",
+    "station_end": "K12+100",
+    "lane": "上行一车道",
+    "location_name": "未注明位置",
+    "longitude": "",
+    "latitude": "",
+    "road_level": "一般公路",
+    "direction": "上行",
+    "section_note": "",
+    "source_type": "普通路面影像",
+    "collector": "演示采集员",
+    "annotator": "当前用户",
+    "status": "待标注",
+    "meter_per_pixel": null,
+    "cracks": [],
+    "regions": [],
+    "candidates": [],
+    "review_logs": [],
+    "created_at": "2026-06-09 13:49:48",
+    "updated_at": "2026-06-09 13:49:48"
+  },
+  {
+    "task_id": "任务-008fe60c",
+    "road_name": "G320示范路段",
+    "image_path": "E:\\项目\\6.9\\路面裂缝标注软件\\assets\\samples\\sample_road_crack_2.png",
+    "pavement_type": "水泥混凝土路面",
+    "station_start": "K12+000",
+    "station_end": "K12+100",
+    "lane": "上行一车道",
+    "location_name": "未注明位置",
+    "longitude": "",
+    "latitude": "",
+    "road_level": "一般公路",
+    "direction": "上行",
+    "section_note": "",
+    "source_type": "普通路面影像",
+    "collector": "演示采集员",
+    "annotator": "当前用户",
+    "status": "待标注",
+    "meter_per_pixel": null,
+    "cracks": [],
+    "regions": [],
+    "candidates": [],
+    "review_logs": [],
+    "created_at": "2026-06-09 13:49:49",
+    "updated_at": "2026-06-09 13:49:49"
+  },
+  {
+    "task_id": "任务-8ebab861",
+    "road_name": "G320示范路段",
+    "image_path": "E:\\项目\\6.9\\路面裂缝标注软件\\assets\\samples\\sample_road_crack_3.png",
+    "pavement_type": "水泥混凝土路面",
+    "station_start": "K12+000",
+    "station_end": "K12+100",
+    "lane": "上行一车道",
+    "location_name": "未注明位置",
+    "longitude": "",
+    "latitude": "",
+    "road_level": "一般公路",
+    "direction": "上行",
+    "section_note": "",
+    "source_type": "普通路面影像",
+    "collector": "演示采集员",
+    "annotator": "当前用户",
+    "status": "待标注",
+    "meter_per_pixel": null,
+    "cracks": [],
+    "regions": [],
+    "candidates": [],
+    "review_logs": [],
+    "created_at": "2026-06-09 13:49:49",
+    "updated_at": "2026-06-09 13:49:49"
+  },
+  {
+    "task_id": "任务-393031b0",
+    "road_name": "G320示范路段",
+    "image_path": "E:\\项目\\6.9\\路面裂缝标注软件\\assets\\samples\\sample_road_crack_4.png",
+    "pavement_type": "水泥混凝土路面",
+    "station_start": "K12+000",
+    "station_end": "K12+100",
+    "lane": "上行一车道",
+    "location_name": "未注明位置",
+    "longitude": "",
+    "latitude": "",
+    "road_level": "一般公路",
+    "direction": "上行",
+    "section_note": "",
+    "source_type": "普通路面影像",
+    "collector": "演示采集员",
+    "annotator": "当前用户",
+    "status": "待标注",
+    "meter_per_pixel": null,
+    "cracks": [],
+    "regions": [],
+    "candidates": [],
+    "review_logs": [],
+    "created_at": "2026-06-09 13:49:50",
+    "updated_at": "2026-06-09 13:49:50"
+  },
+  {
+    "task_id": "任务-034b0552",
+    "road_name": "G320示范路段",
+    "image_path": "E:\\项目\\6.9\\路面裂缝标注软件\\assets\\samples\\realistic_sample_1.png",
+    "pavement_type": "水泥混凝土路面",
+    "station_start": "K12+000",
+    "station_end": "K12+100",
+    "lane": "上行一车道",
+    "location_name": "未注明位置",
+    "longitude": "",
+    "latitude": "",
+    "road_level": "一般公路",
+    "direction": "上行",
+    "section_note": "",
+    "source_type": "普通路面影像",
+    "collector": "演示采集员",
+    "annotator": "当前用户",
+    "status": "待标注",
+    "meter_per_pixel": null,
+    "cracks": [],
+    "regions": [],
+    "candidates": [],
+    "review_logs": [],
+    "created_at": "2026-06-09 13:49:50",
+    "updated_at": "2026-06-09 13:49:50"
+  },
+  {
+    "task_id": "任务-cf2865a2",
+    "road_name": "G320示范路段",
+    "image_path": "E:\\项目\\6.9\\路面裂缝标注软件\\assets\\samples\\realistic_sample_2.png",
+    "pavement_type": "水泥混凝土路面",
+    "station_start": "K12+000",
+    "station_end": "K12+100",
+    "lane": "上行一车道",
+    "location_name": "未注明位置",
+    "longitude": "",
+    "latitude": "",
+    "road_level": "一般公路",
+    "direction": "上行",
+    "section_note": "",
+    "source_type": "普通路面影像",
+    "collector": "演示采集员",
+    "annotator": "当前用户",
+    "status": "待标注",
+    "meter_per_pixel": null,
+    "cracks": [],
+    "regions": [],
+    "candidates": [],
+    "review_logs": [],
+    "created_at": "2026-06-09 13:49:50",
+    "updated_at": "2026-06-09 13:49:50"
+  },
+  {
+    "task_id": "任务-75bf7de7",
+    "road_name": "G320示范路段",
+    "image_path": "E:\\项目\\6.9\\路面裂缝标注软件\\assets\\samples\\realistic_sample_3.png",
+    "pavement_type": "水泥混凝土路面",
+    "station_start": "K12+000",
+    "station_end": "K12+100",
+    "lane": "上行一车道",
+    "location_name": "未注明位置",
+    "longitude": "",
+    "latitude": "",
+    "road_level": "一般公路",
+    "direction": "上行",
+    "section_note": "",
+    "source_type": "普通路面影像",
+    "collector": "演示采集员",
+    "annotator": "当前用户",
+    "status": "待标注",
+    "meter_per_pixel": null,
+    "cracks": [],
+    "regions": [],
+    "candidates": [],
+    "review_logs": [],
+    "created_at": "2026-06-09 13:49:51",
+    "updated_at": "2026-06-09 13:49:51"
+  },
+  {
+    "task_id": "任务-96fb2f77",
+    "road_name": "G320示范路段",
+    "image_path": "E:\\项目\\6.9\\路面裂缝标注软件\\assets\\samples\\realistic_sample_4.png",
+    "pavement_type": "水泥混凝土路面",
+    "station_start": "K12+000",
+    "station_end": "K12+100",
+    "lane": "上行一车道",
+    "location_name": "未注明位置",
+    "longitude": "",
+    "latitude": "",
+    "road_level": "一般公路",
+    "direction": "上行",
+    "section_note": "",
+    "source_type": "普通路面影像",
+    "collector": "演示采集员",
+    "annotator": "当前用户",
+    "status": "待标注",
+    "meter_per_pixel": null,
+    "cracks": [],
+    "regions": [],
+    "candidates": [],
+    "review_logs": [],
+    "created_at": "2026-06-09 13:49:52",
+    "updated_at": "2026-06-09 13:49:52"
+  },
+  {
+    "task_id": "任务-9ebfec98",
+    "road_name": "G320示范路段",
+    "image_path": "E:\\项目\\6.9\\路面裂缝标注软件\\assets\\samples\\sample_road_crack_1.png",
+    "pavement_type": "沥青路面",
+    "station_start": "K12+000",
+    "station_end": "K12+100",
+    "lane": "上行一车道",
+    "location_name": "未注明位置",
+    "longitude": "",
+    "latitude": "",
+    "road_level": "一般公路",
+    "direction": "上行",
+    "section_note": "",
+    "source_type": "普通路面影像",
+    "collector": "演示采集员",
+    "annotator": "当前用户",
+    "status": "待标注",
+    "meter_per_pixel": null,
+    "cracks": [],
+    "regions": [],
+    "candidates": [],
+    "review_logs": [],
+    "created_at": "2026-06-09 13:58:27",
+    "updated_at": "2026-06-09 13:58:27"
+  },
+  {
+    "task_id": "任务-f5bf38cb",
+    "road_name": "G320示范路段",
+    "image_path": "E:\\项目\\6.9\\路面裂缝标注软件\\assets\\samples\\sample_road_crack_2.png",
+    "pavement_type": "沥青路面",
+    "station_start": "K12+000",
+    "station_end": "K12+100",
+    "lane": "上行一车道",
+    "location_name": "未注明位置",
+    "longitude": "",
+    "latitude": "",
+    "road_level": "一般公路",
+    "direction": "上行",
+    "section_note": "",
+    "source_type": "普通路面影像",
+    "collector": "演示采集员",
+    "annotator": "当前用户",
+    "status": "待标注",
+    "meter_per_pixel": null,
+    "cracks": [],
+    "regions": [],
+    "candidates": [],
+    "review_logs": [],
+    "created_at": "2026-06-09 13:58:28",
+    "updated_at": "2026-06-09 13:58:28"
+  },
+  {
+    "task_id": "任务-eef2c298",
+    "road_name": "G320示范路段",
+    "image_path": "E:\\项目\\6.9\\路面裂缝标注软件\\assets\\samples\\sample_road_crack_3.png",
+    "pavement_type": "沥青路面",
+    "station_start": "K12+000",
+    "station_end": "K12+100",
+    "lane": "上行一车道",
+    "location_name": "未注明位置",
+    "longitude": "",
+    "latitude": "",
+    "road_level": "一般公路",
+    "direction": "上行",
+    "section_note": "",
+    "source_type": "普通路面影像",
+    "collector": "演示采集员",
+    "annotator": "当前用户",
+    "status": "待标注",
+    "meter_per_pixel": null,
+    "cracks": [],
+    "regions": [],
+    "candidates": [],
+    "review_logs": [],
+    "created_at": "2026-06-09 13:58:29",
+    "updated_at": "2026-06-09 13:58:29"
+  },
+  {
+    "task_id": "任务-4f191b50",
+    "road_name": "G320示范路段",
+    "image_path": "E:\\项目\\6.9\\路面裂缝标注软件\\assets\\samples\\sample_road_crack_4.png",
+    "pavement_type": "沥青路面",
+    "station_start": "K12+000",
+    "station_end": "K12+100",
+    "lane": "上行一车道",
+    "location_name": "未注明位置",
+    "longitude": "",
+    "latitude": "",
+    "road_level": "一般公路",
+    "direction": "上行",
+    "section_note": "",
+    "source_type": "普通路面影像",
+    "collector": "演示采集员",
+    "annotator": "当前用户",
+    "status": "待标注",
+    "meter_per_pixel": null,
+    "cracks": [],
+    "regions": [],
+    "candidates": [],
+    "review_logs": [],
+    "created_at": "2026-06-09 13:58:29",
+    "updated_at": "2026-06-09 13:58:29"
+  },
+  {
+    "task_id": "任务-187fb8e9",
+    "road_name": "G320示范路段",
+    "image_path": "E:\\项目\\6.9\\路面裂缝标注软件\\assets\\samples\\realistic_sample_1.png",
+    "pavement_type": "沥青路面",
+    "station_start": "K12+000",
+    "station_end": "K12+100",
+    "lane": "上行一车道",
+    "location_name": "未注明位置",
+    "longitude": "",
+    "latitude": "",
+    "road_level": "一般公路",
+    "direction": "上行",
+    "section_note": "",
+    "source_type": "普通路面影像",
+    "collector": "演示采集员",
+    "annotator": "当前用户",
+    "status": "待标注",
+    "meter_per_pixel": null,
+    "cracks": [],
+    "regions": [],
+    "candidates": [],
+    "review_logs": [],
+    "created_at": "2026-06-09 13:58:30",
+    "updated_at": "2026-06-09 13:58:30"
+  },
+  {
+    "task_id": "任务-6d5e1303",
+    "road_name": "G320示范路段",
+    "image_path": "E:\\项目\\6.9\\路面裂缝标注软件\\assets\\samples\\realistic_sample_2.png",
+    "pavement_type": "沥青路面",
+    "station_start": "K12+000",
+    "station_end": "K12+100",
+    "lane": "上行一车道",
+    "location_name": "未注明位置",
+    "longitude": "",
+    "latitude": "",
+    "road_level": "一般公路",
+    "direction": "上行",
+    "section_note": "",
+    "source_type": "普通路面影像",
+    "collector": "演示采集员",
+    "annotator": "当前用户",
+    "status": "待标注",
+    "meter_per_pixel": null,
+    "cracks": [],
+    "regions": [],
+    "candidates": [],
+    "review_logs": [],
+    "created_at": "2026-06-09 13:58:30",
+    "updated_at": "2026-06-09 13:58:30"
+  },
+  {
+    "task_id": "任务-b9b2fba9",
+    "road_name": "G320示范路段",
+    "image_path": "E:\\项目\\6.9\\路面裂缝标注软件\\assets\\samples\\realistic_sample_3.png",
+    "pavement_type": "沥青路面",
+    "station_start": "K12+000",
+    "station_end": "K12+100",
+    "lane": "上行一车道",
+    "location_name": "未注明位置",
+    "longitude": "",
+    "latitude": "",
+    "road_level": "一般公路",
+    "direction": "上行",
+    "section_note": "",
+    "source_type": "普通路面影像",
+    "collector": "演示采集员",
+    "annotator": "当前用户",
+    "status": "待标注",
+    "meter_per_pixel": null,
+    "cracks": [],
+    "regions": [],
+    "candidates": [],
+    "review_logs": [],
+    "created_at": "2026-06-09 13:58:31",
+    "updated_at": "2026-06-09 13:58:31"
+  },
+  {
+    "task_id": "任务-74c5ffb0",
+    "road_name": "G320示范路段",
+    "image_path": "E:\\项目\\6.9\\路面裂缝标注软件\\assets\\samples\\realistic_sample_4.png",
+    "pavement_type": "沥青路面",
+    "station_start": "K12+000",
+    "station_end": "K12+100",
+    "lane": "上行一车道",
+    "location_name": "未注明位置",
+    "longitude": "",
+    "latitude": "",
+    "road_level": "一般公路",
+    "direction": "上行",
+    "section_note": "",
+    "source_type": "普通路面影像",
+    "collector": "演示采集员",
+    "annotator": "当前用户",
+    "status": "待标注",
+    "meter_per_pixel": null,
+    "cracks": [],
+    "regions": [],
+    "candidates": [],
+    "review_logs": [],
+    "created_at": "2026-06-09 13:58:31",
+    "updated_at": "2026-06-09 13:58:31"
+  },
+  {
+    "task_id": "任务-6858eef7",
+    "road_name": "G320示范路段",
+    "image_path": "E:\\项目\\6.9\\路面裂缝标注软件\\assets\\samples\\sample_road_crack_1.png",
+    "pavement_type": "沥青路面",
+    "station_start": "K12+000",
+    "station_end": "K12+100",
+    "lane": "上行一车道",
+    "location_name": "未注明位置",
+    "longitude": "",
+    "latitude": "",
+    "road_level": "一般公路",
+    "direction": "上行",
+    "section_note": "",
+    "source_type": "普通路面影像",
+    "collector": "演示采集员",
+    "annotator": "当前用户",
+    "status": "待标注",
+    "meter_per_pixel": null,
+    "cracks": [],
+    "regions": [],
+    "candidates": [],
+    "review_logs": [],
+    "created_at": "2026-06-09 13:58:32",
+    "updated_at": "2026-06-09 13:58:32"
+  },
+  {
+    "task_id": "任务-400e012e",
+    "road_name": "G320示范路段",
+    "image_path": "E:\\项目\\6.9\\路面裂缝标注软件\\assets\\samples\\sample_road_crack_2.png",
+    "pavement_type": "沥青路面",
+    "station_start": "K12+000",
+    "station_end": "K12+100",
+    "lane": "上行一车道",
+    "location_name": "未注明位置",
+    "longitude": "",
+    "latitude": "",
+    "road_level": "一般公路",
+    "direction": "上行",
+    "section_note": "",
+    "source_type": "普通路面影像",
+    "collector": "演示采集员",
+    "annotator": "当前用户",
+    "status": "待标注",
+    "meter_per_pixel": null,
+    "cracks": [],
+    "regions": [],
+    "candidates": [],
+    "review_logs": [],
+    "created_at": "2026-06-09 13:58:32",
+    "updated_at": "2026-06-09 13:58:32"
+  },
+  {
+    "task_id": "任务-b4bdbbb5",
+    "road_name": "G320示范路段",
+    "image_path": "E:\\项目\\6.9\\路面裂缝标注软件\\assets\\samples\\sample_road_crack_3.png",
+    "pavement_type": "沥青路面",
+    "station_start": "K12+000",
+    "station_end": "K12+100",
+    "lane": "上行一车道",
+    "location_name": "未注明位置",
+    "longitude": "",
+    "latitude": "",
+    "road_level": "一般公路",
+    "direction": "上行",
+    "section_note": "",
+    "source_type": "普通路面影像",
+    "collector": "演示采集员",
+    "annotator": "当前用户",
+    "status": "待标注",
+    "meter_per_pixel": null,
+    "cracks": [],
+    "regions": [],
+    "candidates": [],
+    "review_logs": [],
+    "created_at": "2026-06-09 13:58:32",
+    "updated_at": "2026-06-09 13:58:32"
+  },
+  {
+    "task_id": "任务-7c2afa92",
+    "road_name": "G320示范路段",
+    "image_path": "E:\\项目\\6.9\\路面裂缝标注软件\\assets\\samples\\sample_road_crack_4.png",
+    "pavement_type": "沥青路面",
+    "station_start": "K12+000",
+    "station_end": "K12+100",
+    "lane": "上行一车道",
+    "location_name": "未注明位置",
+    "longitude": "",
+    "latitude": "",
+    "road_level": "一般公路",
+    "direction": "上行",
+    "section_note": "",
+    "source_type": "普通路面影像",
+    "collector": "演示采集员",
+    "annotator": "当前用户",
+    "status": "待标注",
+    "meter_per_pixel": null,
+    "cracks": [],
+    "regions": [],
+    "candidates": [],
+    "review_logs": [],
+    "created_at": "2026-06-09 13:58:33",
+    "updated_at": "2026-06-09 13:58:33"
+  },
+  {
+    "task_id": "任务-e770cf02",
+    "road_name": "G320示范路段",
+    "image_path": "E:\\项目\\6.9\\路面裂缝标注软件\\assets\\samples\\realistic_sample_1.png",
+    "pavement_type": "沥青路面",
+    "station_start": "K12+000",
+    "station_end": "K12+100",
+    "lane": "上行一车道",
+    "location_name": "未注明位置",
+    "longitude": "",
+    "latitude": "",
+    "road_level": "一般公路",
+    "direction": "上行",
+    "section_note": "",
+    "source_type": "普通路面影像",
+    "collector": "演示采集员",
+    "annotator": "当前用户",
+    "status": "标注中",
+    "meter_per_pixel": null,
+    "cracks": [
+      {
+        "crack_id": "裂缝-e184595d",
+        "points": [
+          [
+            66.51382113821131,
+            474.1317073170732
+          ],
+          [
+            387.8991869918699,
+            448.23252032520315
+          ],
+          [
+            485.6097560975608,
+            482.37235772357724
+          ],
+          [
+            730.4747967479674,
+            483.54959349593486
+          ],
+          [
+            885.869918699187,
+            482.37235772357724
+          ],
+          [
+            1033.0243902439024,
+            462.35934959349584
+          ],
+          [
+            1244.9268292682925,
+            454.1186991869919
+          ],
+          [
+            1360.2959349593493,
+            447.05528455284554
+          ],
+          [
+            1432.1073170731706,
+            435.2829268292684
+          ]
+        ],
+        "crack_type": "横向裂缝",
+        "suggestion_type": "横向裂缝",
+        "severity": "一般",
+        "review_status": "待复核",
+        "review_comment": "",
+        "locked": false,
+        "ignored": false,
+        "source": "人工描绘",
+        "width_samples": [],
+        "repair_method": "灌缝胶修补",
+        "material_amount": 0.0,
+        "material_unit": "升",
+        "station": "未绑定",
+        "created_at": "2026-06-09 13:59:12"
+      },
+      {
+        "crack_id": "裂缝-12c75e31",
+        "points": [
+          [
+            12.360975609756197,
+            483.54959349593486
+          ],
+          [
+            38.27487804878055,
+            476.9703170731707
+          ],
+          [
+            61.80487804878058,
+            468.24552845528456
+          ]
+        ],
+        "crack_type": "横向裂缝",
+        "suggestion_type": "横向裂缝",
+        "severity": "轻微",
+        "review_status": "待复核",
+        "review_comment": "",
+        "locked": false,
+        "ignored": false,
+        "source": "人工描绘",
+        "width_samples": [],
+        "repair_method": "灌缝胶修补",
+        "material_amount": 0.0,
+        "material_unit": "升",
+        "station": "未绑定",
+        "created_at": "2026-06-09 13:59:18"
+      }
+    ],
+    "regions": [],
+    "candidates": [],
+    "review_logs": [],
+    "created_at": "2026-06-09 13:58:33",
+    "updated_at": "2026-06-09 14:00:35"
+  },
+  {
+    "task_id": "任务-d7e7b014",
+    "road_name": "G320示范路段",
+    "image_path": "E:\\项目\\6.9\\路面裂缝标注软件\\assets\\samples\\realistic_sample_2.png",
+    "pavement_type": "沥青路面",
+    "station_start": "K12+000",
+    "station_end": "K12+100",
+    "lane": "上行一车道",
+    "location_name": "未注明位置",
+    "longitude": "",
+    "latitude": "",
+    "road_level": "一般公路",
+    "direction": "上行",
+    "section_note": "",
+    "source_type": "普通路面影像",
+    "collector": "演示采集员",
+    "annotator": "当前用户",
+    "status": "待标注",
+    "meter_per_pixel": 0.001988112120087855,
+    "cracks": [],
+    "regions": [],
+    "candidates": [],
+    "review_logs": [],
+    "created_at": "2026-06-09 15:10:23",
+    "updated_at": "2026-06-09 15:12:13"
+  },
+  {
+    "task_id": "任务-b5f9c0df",
+    "road_name": "G320示范路段",
+    "image_path": "E:\\项目\\6.9\\路面裂缝标注软件\\assets\\samples\\realistic_sample_3.png",
+    "pavement_type": "沥青路面",
+    "station_start": "K12+000",
+    "station_end": "K12+100",
+    "lane": "上行一车道",
+    "location_name": "未注明位置",
+    "longitude": "",
+    "latitude": "",
+    "road_level": "一般公路",
+    "direction": "上行",
+    "section_note": "",
+    "source_type": "普通路面影像",
+    "collector": "演示采集员",
+    "annotator": "当前用户",
+    "status": "标注中",
+    "meter_per_pixel": null,
+    "cracks": [],
+    "regions": [],
+    "candidates": [],
+    "review_logs": [],
+    "created_at": "2026-06-09 15:14:17",
+    "updated_at": "2026-06-09 15:17:20"
+  },
+  {
+    "task_id": "任务-a547eae5",
+    "road_name": "G320示范路段",
+    "image_path": "E:\\项目\\6.9\\路面裂缝标注软件\\assets\\samples\\large_realistic_road_crack_4.png",
+    "pavement_type": "沥青路面",
+    "station_start": "K12+000",
+    "station_end": "K12+100",
+    "lane": "上行一车道",
+    "location_name": "未注明位置",
+    "longitude": "",
+    "latitude": "",
+    "road_level": "一般公路",
+    "direction": "上行",
+    "section_note": "",
+    "source_type": "普通路面影像",
+    "collector": "演示采集员",
+    "annotator": "当前用户",
+    "status": "自动识别后待复核",
+    "meter_per_pixel": null,
+    "cracks": [
+      {
+        "crack_id": "裂缝-cc345ffc",
+        "points": [
+          [
+            1089.756097560975,
+            58.04878048780482
+          ],
+          [
+            1168.6597560975606,
+            450.79634146341454
+          ],
+          [
+            1234.2573170731705,
+            759.2073170731707
+          ],
+          [
+            1278.75,
+            999.9804878048778
+          ],
+          [
+            1297.301219512195,
+            1222.551219512195
+          ],
+          [
+            1289.0585365853656,
+            1430.1780487804876
+          ],
+          [
+            1271.9597560975606,
+            1596.9670731707315
+          ],
+          [
+            1279.1451219512192,
+            1682.5780487804877
+          ],
+          [
+            1315.474390243902,
+            1661.0829268292682
+          ],
+          [
+            1349.3475609756097,
+            1556.412195121951
+          ],
+          [
+            1359.2853658536585,
+            1424.330487804878
+          ],
+          [
+            1355.4048780487803,
+            1294.5695121951217
+          ],
+          [
+            1351.5146341463412,
+            1170.8902439024387
+          ],
+          [
+            1347.2621951219512,
+            1043.0048780487803
+          ],
+          [
+            1335.0365853658536,
+            899.5573170731706
+          ],
+          [
+            1310.751219512195,
+            745.9207317073169
+          ],
+          [
+            1278.6975609756096,
+            609.3829268292682
+          ],
+          [
+            1240.3536585365853,
+            495.1487804878048
+          ],
+          [
+            1192.5060975609754,
+            370.580487804878
+          ],
+          [
+            1142.6914634146337,
+            224.7536585365853
+          ],
+          [
+            1108.2707317073166,
+            105.91707317073167
+          ],
+          [
+            1091.7073170731703,
+            42.4390243902439
+          ]
+        ],
+        "crack_type": "纵向裂缝",
+        "suggestion_type": "纵向裂缝",
+        "severity": "一般",
+        "review_status": "待复核",
+        "review_comment": "",
+        "locked": false,
+        "ignored": false,
+        "source": "人工描绘",
+        "width_samples": [],
+        "repair_method": "灌缝胶修补",
+        "material_amount": 0.0,
+        "material_unit": "升",
+        "station": "未绑定",
+        "created_at": "2026-06-09 15:30:15"
+      },
+      {
+        "crack_id": "裂缝-11f2c7ca",
+        "points": [
+          [
+            2292.0,
+            855.0
+          ],
+          [
+            2046.0,
+            1308.0
+          ],
+          [
+            1665.0,
+            1377.0
+          ],
+          [
+            1269.0,
+            1290.0
+          ],
+          [
+            897.0,
+            1449.0
+          ],
+          [
+            504.0,
+            1458.0
+          ],
+          [
+            153.0,
+            1491.0
+          ]
+        ],
+        "crack_type": "横向裂缝",
+        "suggestion_type": "横向裂缝",
+        "severity": "严重",
+        "review_status": "已修正待复核",
+        "review_comment": "",
+        "locked": false,
+        "ignored": false,
+        "source": "自动识别",
+        "width_samples": [
+          {
+            "p1": [
+              2178.0,
+              1086.0
+            ],
+            "p2": [
+              2161.0,
+              1077.0
+            ],
+            "width_mm": 19.235384061671343,
+            "created_at": "15:33:59"
+          },
+          {
+            "p1": [
+              1084.0,
+              1372.0
+            ],
+            "p2": [
+              1075.0,
+              1350.0
+            ],
+            "width_mm": 23.769728648009426,
+            "created_at": "15:33:59"
+          },
+          {
+            "p1": [
+              329.0,
+              1481.0
+            ],
+            "p2": [
+              328.0,
+              1470.0
+            ],
+            "width_mm": 11.045361017187261,
+            "created_at": "15:33:59"
+          }
+        ],
+        "repair_method": "灌缝胶修补",
+        "material_amount": 0.0,
+        "material_unit": "升",
+        "station": "未绑定",
+        "created_at": "2026-06-09 15:33:59"
+      },
+      {
+        "crack_id": "裂缝-b4595905",
+        "points": [
+          [
+            294.0,
+            603.0
+          ],
+          [
+            237.0,
+            582.0
+          ],
+          [
+            186.0,
+            600.0
+          ],
+          [
+            135.0,
+            582.0
+          ],
+          [
+            96.0,
+            537.0
+          ],
+          [
+            39.0,
+            594.0
+          ],
+          [
+            27.0,
+            450.0
+          ]
+        ],
+        "crack_type": "斜向裂缝",
+        "suggestion_type": "斜向裂缝",
+        "severity": "较重",
+        "review_status": "待复核",
+        "review_comment": "",
+        "locked": false,
+        "ignored": false,
+        "source": "自动识别",
+        "width_samples": [
+          {
+            "p1": [
+              260.0,
+              608.0
+            ],
+            "p2": [
+              267.0,
+              590.0
+            ],
+            "width_mm": 19.313207915827967,
+            "created_at": "15:33:59"
+          },
+          {
+            "p1": [
+              112.0,
+              563.0
+            ],
+            "p2": [
+              118.0,
+              558.0
+            ],
+            "width_mm": 7.810249675906654,
+            "created_at": "15:33:59"
+          },
+          {
+            "p1": [
+              26.0,
+              523.0
+            ],
+            "p2": [
+              39.0,
+              522.0
+            ],
+            "width_mm": 13.038404810405298,
+            "created_at": "15:33:59"
+          }
+        ],
+        "repair_method": "灌缝胶修补",
+        "material_amount": 0.0,
+        "material_unit": "升",
+        "station": "未绑定",
+        "created_at": "2026-06-09 15:33:59"
+      },
+      {
+        "crack_id": "裂缝-c33da8d5",
+        "points": [
+          [
+            897.0,
+            789.0
+          ],
+          [
+            852.0,
+            801.0
+          ],
+          [
+            795.0,
+            813.0
+          ],
+          [
+            765.0,
+            840.0
+          ],
+          [
+            738.0,
+            888.0
+          ],
+          [
+            708.0,
+            930.0
+          ],
+          [
+            666.0,
+            939.0
+          ]
+        ],
+        "crack_type": "斜向裂缝",
+        "suggestion_type": "斜向裂缝",
+        "severity": "较重",
+        "review_status": "待复核",
+        "review_comment": "",
+        "locked": false,
+        "ignored": false,
+        "source": "自动识别",
+        "width_samples": [
+          {
+            "p1": [
+              876.0,
+              801.0
+            ],
+            "p2": [
+              872.0,
+              787.0
+            ],
+            "width_mm": 14.560219778561036,
+            "created_at": "15:33:59"
+          },
+          {
+            "p1": [
+              766.0,
+              872.0
+            ],
+            "p2": [
+              751.0,
+              864.0
+            ],
+            "width_mm": 17.0,
+            "created_at": "15:33:59"
+          },
+          {
+            "p1": [
+              688.0,
+              941.0
+            ],
+            "p2": [
+              686.0,
+              928.0
+            ],
+            "width_mm": 13.152946437965905,
+            "created_at": "15:33:59"
+          }
+        ],
+        "repair_method": "灌缝胶修补",
+        "material_amount": 0.0,
+        "material_unit": "升",
+        "station": "未绑定",
+        "created_at": "2026-06-09 15:33:59"
+      },
+      {
+        "crack_id": "裂缝-74def20c",
+        "points": [
+          [
+            696.0,
+            813.0
+          ],
+          [
+            675.0,
+            792.0
+          ],
+          [
+            642.0,
+            792.0
+          ],
+          [
+            624.0,
+            813.0
+          ],
+          [
+            594.0,
+            810.0
+          ],
+          [
+            570.0,
+            801.0
+          ],
+          [
+            546.0,
+            817.5
+          ]
+        ],
+        "crack_type": "横向裂缝",
+        "suggestion_type": "横向裂缝",
+        "severity": "较重",
+        "review_status": "待复核",
+        "review_comment": "",
+        "locked": false,
+        "ignored": false,
+        "source": "自动识别",
+        "width_samples": [
+          {
+            "p1": [
+              682.0,
+              806.0
+            ],
+            "p2": [
+              689.0,
+              799.0
+            ],
+            "width_mm": 9.899494936611665,
+            "created_at": "15:33:59"
+          },
+          {
+            "p1": [
+              609.0,
+              812.0
+            ],
+            "p2": [
+              609.0,
+              810.0
+            ],
+            "width_mm": 2.0,
+            "created_at": "15:33:59"
+          },
+          {
+            "p1": [
+              559.0,
+              811.0
+            ],
+            "p2": [
+              556.0,
+              807.0
+            ],
+            "width_mm": 5.0,
+            "created_at": "15:33:59"
+          }
+        ],
+        "repair_method": "灌缝胶修补",
+        "material_amount": 0.0,
+        "material_unit": "升",
+        "station": "未绑定",
+        "created_at": "2026-06-09 15:33:59"
+      },
+      {
+        "crack_id": "裂缝-b6022939",
+        "points": [
+          [
+            2364.0,
+            42.0
+          ],
+          [
+            2343.0,
+            42.0
+          ],
+          [
+            2322.0,
+            36.0
+          ],
+          [
+            2299.5,
+            42.0
+          ],
+          [
+            2268.0,
+            45.0
+          ],
+          [
+            2247.0,
+            39.0
+          ],
+          [
+            2223.0,
+            39.0
+          ]
+        ],
+        "crack_type": "横向裂缝",
+        "suggestion_type": "横向裂缝",
+        "severity": "较重",
+        "review_status": "待复核",
+        "review_comment": "",
+        "locked": false,
+        "ignored": false,
+        "source": "自动识别",
+        "width_samples": [
+          {
+            "p1": [
+              2354.0,
+              44.0
+            ],
+            "p2": [
+              2354.0,
+              40.0
+            ],
+            "width_mm": 4.0,
+            "created_at": "15:33:59"
+          },
+          {
+            "p1": [
+              2284.0,
+              46.0
+            ],
+            "p2": [
+              2284.0,
+              43.0
+            ],
+            "width_mm": 3.0,
+            "created_at": "15:33:59"
+          },
+          {
+            "p1": [
+              2235.0,
+              42.0
+            ],
+            "p2": [
+              2235.0,
+              31.0
+            ],
+            "width_mm": 11.0,
+            "created_at": "15:33:59"
+          }
+        ],
+        "repair_method": "灌缝胶修补",
+        "material_amount": 0.0,
+        "material_unit": "升",
+        "station": "未绑定",
+        "created_at": "2026-06-09 15:33:59"
+      },
+      {
+        "crack_id": "裂缝-a0167f99",
+        "points": [
+          [
+            141.0,
+            771.0
+          ],
+          [
+            123.0,
+            783.0
+          ],
+          [
+            96.0,
+            789.0
+          ],
+          [
+            75.0,
+            798.0
+          ],
+          [
+            51.0,
+            798.0
+          ],
+          [
+            36.0,
+            798.0
+          ],
+          [
+            12.0,
+            810.0
+          ]
+        ],
+        "crack_type": "横向裂缝",
+        "suggestion_type": "横向裂缝",
+        "severity": "较重",
+        "review_status": "待复核",
+        "review_comment": "",
+        "locked": false,
+        "ignored": false,
+        "source": "自动识别",
+        "width_samples": [
+          {
+            "p1": [
+              139.0,
+              787.0
+            ],
+            "p2": [
+              129.0,
+              772.0
+            ],
+            "width_mm": 18.027756377319946,
+            "created_at": "15:33:59"
+          },
+          {
+            "p1": [
+              63.0,
+              802.0
+            ],
+            "p2": [
+              63.0,
+              788.0
+            ],
+            "width_mm": 14.0,
+            "created_at": "15:33:59"
+          },
+          {
+            "p1": [
+              24.0,
+              805.0
+            ],
+            "p2": [
+              24.0,
+              803.0
+            ],
+            "width_mm": 2.0,
+            "created_at": "15:33:59"
+          }
+        ],
+        "repair_method": "灌缝胶修补",
+        "material_amount": 0.0,
+        "material_unit": "升",
+        "station": "未绑定",
+        "created_at": "2026-06-09 15:33:59"
+      },
+      {
+        "crack_id": "裂缝-1c47fe1b",
+        "points": [
+          [
+            1614.0,
+            595.5
+          ],
+          [
+            1602.0,
+            585.0
+          ],
+          [
+            1581.0,
+            588.0
+          ],
+          [
+            1560.0,
+            582.0
+          ],
+          [
+            1542.0,
+            576.0
+          ],
+          [
+            1524.0,
+            582.0
+          ],
+          [
+            1509.0,
+            573.0
+          ]
+        ],
+        "crack_type": "横向裂缝",
+        "suggestion_type": "横向裂缝",
+        "severity": "较重",
+        "review_status": "待复核",
+        "review_comment": "",
+        "locked": false,
+        "ignored": false,
+        "source": "自动识别",
+        "width_samples": [
+          {
+            "p1": [
+              1604.0,
+              595.0
+            ],
+            "p2": [
+              1620.0,
+              577.0
+            ],
+            "width_mm": 24.08318915758459,
+            "created_at": "15:33:59"
+          },
+          {
+            "p1": [
+              1551.0,
+              580.0
+            ],
+            "p2": [
+              1551.0,
+              578.0
+            ],
+            "width_mm": 2.0,
+            "created_at": "15:33:59"
+          },
+          {
+            "p1": [
+              1507.0,
+              593.0
+            ],
+            "p2": [
+              1520.0,
+              572.0
+            ],
+            "width_mm": 24.698178070456937,
+            "created_at": "15:33:59"
+          }
+        ],
+        "repair_method": "灌缝胶修补",
+        "material_amount": 0.0,
+        "material_unit": "升",
+        "station": "未绑定",
+        "created_at": "2026-06-09 15:33:59"
+      },
+      {
+        "crack_id": "裂缝-84d78269",
+        "points": [
+          [
+            1404.0,
+            307.5
+          ],
+          [
+            1380.0,
+            309.0
+          ],
+          [
+            1356.0,
+            306.0
+          ],
+          [
+            1332.0,
+            306.0
+          ],
+          [
+            1308.0,
+            306.0
+          ],
+          [
+            1290.0,
+            294.0
+          ],
+          [
+            1269.0,
+            294.0
+          ]
+        ],
+        "crack_type": "横向裂缝",
+        "suggestion_type": "横向裂缝",
+        "severity": "较重",
+        "review_status": "待复核",
+        "review_comment": "",
+        "locked": false,
+        "ignored": false,
+        "source": "自动识别",
+        "width_samples": [
+          {
+            "p1": [
+              1392.0,
+              310.0
+            ],
+            "p2": [
+              1392.0,
+              305.0
+            ],
+            "width_mm": 5.0,
+            "created_at": "15:33:59"
+          },
+          {
+            "p1": [
+              1320.0,
+              311.0
+            ],
+            "p2": [
+              1320.0,
+              296.0
+            ],
+            "width_mm": 15.0,
+            "created_at": "15:33:59"
+          }
+        ],
+        "repair_method": "灌缝胶修补",
+        "material_amount": 0.0,
+        "material_unit": "升",
+        "station": "未绑定",
+        "created_at": "2026-06-09 15:33:59"
+      },
+      {
+        "crack_id": "裂缝-67bd1592",
+        "points": [
+          [
+            321.0,
+            783.0
+          ],
+          [
+            300.0,
+            780.0
+          ],
+          [
+            276.0,
+            786.0
+          ],
+          [
+            261.0,
+            780.0
+          ],
+          [
+            246.0,
+            786.0
+          ],
+          [
+            225.0,
+            804.0
+          ],
+          [
+            213.0,
+            813.0
+          ]
+        ],
+        "crack_type": "横向裂缝",
+        "suggestion_type": "横向裂缝",
+        "severity": "较重",
+        "review_status": "待复核",
+        "review_comment": "",
+        "locked": false,
+        "ignored": false,
+        "source": "自动识别",
+        "width_samples": [
+          {
+            "p1": [
+              310.0,
+              783.0
+            ],
+            "p2": [
+              312.0,
+              771.0
+            ],
+            "width_mm": 12.165525060596439,
+            "created_at": "15:33:59"
+          },
+          {
+            "p1": [
+              254.0,
+              785.0
+            ],
+            "p2": [
+              251.0,
+              777.0
+            ],
+            "width_mm": 8.54400374531753,
+            "created_at": "15:33:59"
+          },
+          {
+            "p1": [
+              221.0,
+              811.0
+            ],
+            "p2": [
+              215.0,
+              804.0
+            ],
+            "width_mm": 9.219544457292887,
+            "created_at": "15:33:59"
+          }
+        ],
+        "repair_method": "灌缝胶修补",
+        "material_amount": 0.0,
+        "material_unit": "升",
+        "station": "未绑定",
+        "created_at": "2026-06-09 15:33:59"
+      },
+      {
+        "crack_id": "裂缝-5199adfe",
+        "points": [
+          [
+            1696.5,
+            597.0
+          ],
+          [
+            1683.0,
+            597.0
+          ],
+          [
+            1671.0,
+            585.0
+          ],
+          [
+            1656.0,
+            582.0
+          ],
+          [
+            1644.0,
+            573.0
+          ],
+          [
+            1629.0,
+            570.0
+          ],
+          [
+            1620.0,
+            555.0
+          ]
+        ],
+        "crack_type": "斜向裂缝",
+        "suggestion_type": "斜向裂缝",
+        "severity": "较重",
+        "review_status": "待复核",
+        "review_comment": "",
+        "locked": false,
+        "ignored": false,
+        "source": "自动识别",
+        "width_samples": [
+          {
+            "p1": [
+              1690.0,
+              599.0
+            ],
+            "p2": [
+              1690.0,
+              592.0
+            ],
+            "width_mm": 7.0,
+            "created_at": "15:33:59"
+          },
+          {
+            "p1": [
+              1647.0,
+              582.0
+            ],
+            "p2": [
+              1657.0,
+              568.0
+            ],
+            "width_mm": 17.204650534085253,
+            "created_at": "15:33:59"
+          }
+        ],
+        "repair_method": "灌缝胶修补",
+        "material_amount": 0.0,
+        "material_unit": "升",
+        "station": "未绑定",
+        "created_at": "2026-06-09 15:33:59"
+      }
+    ],
+    "regions": [],
+    "candidates": [
+      {
+        "candidate_id": "疑似-2a10c49e",
+        "points": [
+          [
+            2240,
+            1618.2200087912663
+          ],
+          [
+            2280,
+            1621.5699607773627
+          ],
+          [
+            2320,
+            1620.4733227867287
+          ]
+        ],
+        "score": 63.0,
+        "status": "待确认",
+        "note": "暗线增强候选"
+      },
+      {
+        "candidate_id": "疑似-e1378349",
+        "points": [
+          [
+            1600,
+            1663.0122226921533
+          ],
+          [
+            1640,
+            1665.626457564866
+          ],
+          [
+            1680,
+            1666.4663806401466
+          ]
+        ],
+        "score": 63.0,
+        "status": "待确认",
+        "note": "暗线增强候选"
+      },
+      {
+        "candidate_id": "疑似-a8f42ae8",
+        "points": [
+          [
+            1280,
+            1711.8400520763935
+          ],
+          [
+            1320,
+            1709.946897691952
+          ],
+          [
+            1360,
+            1708.2041446386215
+          ]
+        ],
+        "score": 63.0,
+        "status": "待确认",
+        "note": "暗线增强候选"
+      }
+    ],
+    "review_logs": [
+      {
+        "crack_id": "裂缝-11f2c7ca",
+        "reviewer": "当前复核员",
+        "result": "退回修改",
+        "comment": "",
+        "created_at": "2026-06-09 15:34:03"
+      },
+      {
+        "crack_id": "裂缝-11f2c7ca",
+        "reviewer": "当前复核员",
+        "result": "解除锁定",
+        "comment": "",
+        "created_at": "2026-06-09 15:34:06"
+      }
+    ],
+    "created_at": "2026-06-09 15:28:21",
+    "updated_at": "2026-06-09 15:34:06"
+  },
+  {
+    "task_id": "任务-18bb2bad",
+    "road_name": "G320示范路段",
+    "image_path": "E:\\项目\\6.9\\路面裂缝标注软件\\assets\\samples\\realistic_sample_1.png",
+    "pavement_type": "水泥混凝土路面",
+    "station_start": "K12+000",
+    "station_end": "K12+100",
+    "lane": "上行一车道",
+    "location_name": "武汉市东西湖区示范路段",
+    "longitude": "114.305678",
+    "latitude": "30.572123",
+    "road_level": "一般公路",
+    "direction": "上行",
+    "section_note": "常规路面巡检影像",
+    "source_type": "普通路面影像",
+    "collector": "演示采集员",
+    "annotator": "当前用户",
+    "status": "待标注",
+    "meter_per_pixel": 0.0005,
+    "cracks": [],
+    "regions": [],
+    "candidates": [],
+    "review_logs": [],
+    "created_at": "2026-06-09 16:01:57",
+    "updated_at": "2026-06-09 16:02:44"
+  },
+  {
+    "task_id": "任务-0f5258b6",
+    "road_name": "G320示范街景路段",
+    "image_path": "E:\\项目\\6.9\\路面裂缝标注软件\\assets\\streetview\\street_view_crack_frame_1.png",
+    "pavement_type": "街景路面",
+    "station_start": "K12+300",
+    "station_end": "K12+300",
+    "lane": "街景采集车道",
+    "location_name": "武汉市东西湖区示范道路",
+    "longitude": "114.305678",
+    "latitude": "30.572123",
+    "road_level": "城市主干路",
+    "direction": "上行",
+    "section_note": "街景模拟帧，用于路面裂缝快速预标注",
+    "source_type": "街景路面影像",
+    "collector": "演示采集员",
+    "annotator": "当前用户",
+    "status": "街景待标注",
+    "meter_per_pixel": null,
+    "cracks": [],
+    "regions": [],
+    "candidates": [],
+    "review_logs": [],
+    "created_at": "2026-06-09 16:04:27",
+    "updated_at": "2026-06-09 16:04:27"
+  },
+  {
+    "task_id": "任务-7b6f485b",
+    "road_name": "G320示范街景路段",
+    "image_path": "E:\\项目\\6.9\\路面裂缝标注软件\\assets\\streetview\\street_view_crack_frame_1.png",
+    "pavement_type": "街景路面",
+    "station_start": "K12+300",
+    "station_end": "K12+300",
+    "lane": "街景采集车道",
+    "location_name": "武汉市东西湖区示范道路",
+    "longitude": "114.305678",
+    "latitude": "30.572123",
+    "road_level": "城市主干路",
+    "direction": "上行",
+    "section_note": "街景模拟帧，用于路面裂缝快速预标注",
+    "source_type": "街景路面影像",
+    "collector": "演示采集员",
+    "annotator": "当前用户",
+    "status": "街景待标注",
+    "meter_per_pixel": null,
+    "cracks": [],
+    "regions": [],
+    "candidates": [],
+    "review_logs": [],
+    "created_at": "2026-06-09 16:04:28",
+    "updated_at": "2026-06-09 16:04:28"
+  },
+  {
+    "task_id": "任务-44a0eb47",
+    "road_name": "G320示范街景路段",
+    "image_path": "E:\\项目\\6.9\\路面裂缝标注软件\\assets\\streetview\\street_view_crack_frame_1.png",
+    "pavement_type": "街景路面",
+    "station_start": "K12+300",
+    "station_end": "K12+300",
+    "lane": "街景采集车道",
+    "location_name": "武汉市东西湖区示范道路",
+    "longitude": "114.305678",
+    "latitude": "30.572123",
+    "road_level": "城市主干路",
+    "direction": "上行",
+    "section_note": "街景模拟帧，用于路面裂缝快速预标注",
+    "source_type": "街景路面影像",
+    "collector": "演示采集员",
+    "annotator": "当前用户",
+    "status": "街景待标注",
+    "meter_per_pixel": null,
+    "cracks": [],
+    "regions": [],
+    "candidates": [],
+    "review_logs": [],
+    "created_at": "2026-06-09 16:04:28",
+    "updated_at": "2026-06-09 16:04:28"
+  },
+  {
+    "task_id": "任务-6a68bbaf",
+    "road_name": "G320示范街景路段",
+    "image_path": "E:\\项目\\6.9\\路面裂缝标注软件\\assets\\streetview\\street_view_crack_frame_1.png",
+    "pavement_type": "街景路面",
+    "station_start": "K12+300",
+    "station_end": "K12+300",
+    "lane": "街景采集车道",
+    "location_name": "武汉市东西湖区示范道路",
+    "longitude": "114.305678",
+    "latitude": "30.572123",
+    "road_level": "城市主干路",
+    "direction": "上行",
+    "section_note": "街景模拟帧，用于路面裂缝快速预标注",
+    "source_type": "街景路面影像",
+    "collector": "演示采集员",
+    "annotator": "当前用户",
+    "status": "街景待标注",
+    "meter_per_pixel": null,
+    "cracks": [],
+    "regions": [],
+    "candidates": [],
+    "review_logs": [],
+    "created_at": "2026-06-09 16:04:28",
+    "updated_at": "2026-06-09 16:04:28"
+  },
+  {
+    "task_id": "任务-e13b61ed",
+    "road_name": "G320示范街景路段",
+    "image_path": "E:\\项目\\6.9\\路面裂缝标注软件\\assets\\streetview\\street_view_crack_frame_1.png",
+    "pavement_type": "街景路面",
+    "station_start": "K12+300",
+    "station_end": "K12+300",
+    "lane": "街景采集车道",
+    "location_name": "武汉市东西湖区示范道路",
+    "longitude": "114.305678",
+    "latitude": "30.572123",
+    "road_level": "城市主干路",
+    "direction": "上行",
+    "section_note": "街景模拟帧，用于路面裂缝快速预标注",
+    "source_type": "街景路面影像",
+    "collector": "演示采集员",
+    "annotator": "当前用户",
+    "status": "街景待标注",
+    "meter_per_pixel": null,
+    "cracks": [],
+    "regions": [],
+    "candidates": [],
+    "review_logs": [],
+    "created_at": "2026-06-09 16:04:29",
+    "updated_at": "2026-06-09 16:04:29"
+  },
+  {
+    "task_id": "任务-2b08fc58",
+    "road_name": "G320示范街景路段",
+    "image_path": "E:\\项目\\6.9\\路面裂缝标注软件\\assets\\streetview\\street_view_crack_frame_1.png",
+    "pavement_type": "街景路面",
+    "station_start": "K12+300",
+    "station_end": "K12+300",
+    "lane": "街景采集车道",
+    "location_name": "武汉市东西湖区示范道路",
+    "longitude": "114.305678",
+    "latitude": "30.572123",
+    "road_level": "城市主干路",
+    "direction": "上行",
+    "section_note": "街景模拟帧，用于路面裂缝快速预标注",
+    "source_type": "街景路面影像",
+    "collector": "演示采集员",
+    "annotator": "当前用户",
+    "status": "街景待标注",
+    "meter_per_pixel": null,
+    "cracks": [],
+    "regions": [],
+    "candidates": [],
+    "review_logs": [],
+    "created_at": "2026-06-09 16:04:29",
+    "updated_at": "2026-06-09 16:04:29"
+  },
+  {
+    "task_id": "任务-dc6c416d",
+    "road_name": "G320示范街景路段",
+    "image_path": "E:\\项目\\6.9\\路面裂缝标注软件\\assets\\streetview\\street_view_crack_frame_1.png",
+    "pavement_type": "街景路面",
+    "station_start": "K12+300",
+    "station_end": "K12+300",
+    "lane": "街景采集车道",
+    "location_name": "武汉市东西湖区示范道路",
+    "longitude": "114.305678",
+    "latitude": "30.572123",
+    "road_level": "城市主干路",
+    "direction": "上行",
+    "section_note": "街景模拟帧，用于路面裂缝快速预标注",
+    "source_type": "街景路面影像",
+    "collector": "演示采集员",
+    "annotator": "当前用户",
+    "status": "街景待标注",
+    "meter_per_pixel": null,
+    "cracks": [],
+    "regions": [],
+    "candidates": [],
+    "review_logs": [],
+    "created_at": "2026-06-09 16:04:30",
+    "updated_at": "2026-06-09 16:04:30"
+  },
+  {
+    "task_id": "任务-1e850f8a",
+    "road_name": "G320示范街景路段",
+    "image_path": "E:\\项目\\6.9\\路面裂缝标注软件\\assets\\streetview\\street_view_crack_frame_1.png",
+    "pavement_type": "街景路面",
+    "station_start": "K12+300",
+    "station_end": "K12+300",
+    "lane": "街景采集车道",
+    "location_name": "武汉市东西湖区示范道路",
+    "longitude": "114.305678",
+    "latitude": "30.572123",
+    "road_level": "城市主干路",
+    "direction": "上行",
+    "section_note": "街景模拟帧，用于路面裂缝快速预标注",
+    "source_type": "街景路面影像",
+    "collector": "演示采集员",
+    "annotator": "当前用户",
+    "status": "街景待标注",
+    "meter_per_pixel": null,
+    "cracks": [],
+    "regions": [],
+    "candidates": [],
+    "review_logs": [],
+    "created_at": "2026-06-09 16:04:30",
+    "updated_at": "2026-06-09 16:04:30"
+  },
+  {
+    "task_id": "任务-2432d0f0",
+    "road_name": "G320示范街景路段",
+    "image_path": "E:\\项目\\6.9\\路面裂缝标注软件\\assets\\streetview\\street_view_crack_frame_1.png",
+    "pavement_type": "街景路面",
+    "station_start": "K12+300",
+    "station_end": "K12+300",
+    "lane": "街景采集车道",
+    "location_name": "武汉市东西湖区示范道路",
+    "longitude": "114.305678",
+    "latitude": "30.572123",
+    "road_level": "城市主干路",
+    "direction": "上行",
+    "section_note": "街景模拟帧，用于路面裂缝快速预标注",
+    "source_type": "街景路面影像",
+    "collector": "演示采集员",
+    "annotator": "当前用户",
+    "status": "街景待标注",
+    "meter_per_pixel": null,
+    "cracks": [],
+    "regions": [],
+    "candidates": [],
+    "review_logs": [],
+    "created_at": "2026-06-09 16:04:30",
+    "updated_at": "2026-06-09 16:04:30"
+  },
+  {
+    "task_id": "任务-821ecaea",
+    "road_name": "G320示范街景路段",
+    "image_path": "E:\\项目\\6.9\\路面裂缝标注软件\\assets\\streetview\\street_view_crack_frame_2.png",
+    "pavement_type": "街景路面",
+    "station_start": "K12+350",
+    "station_end": "K12+350",
+    "lane": "街景采集车道",
+    "location_name": "武汉市东西湖区示范道路",
+    "longitude": "114.305678",
+    "latitude": "30.572123",
+    "road_level": "城市主干路",
+    "direction": "上行",
+    "section_note": "街景模拟帧，用于路面裂缝快速预标注",
+    "source_type": "街景路面影像",
+    "collector": "演示采集员",
+    "annotator": "当前用户",
+    "status": "街景待标注",
+    "meter_per_pixel": null,
+    "cracks": [],
+    "regions": [],
+    "candidates": [],
+    "review_logs": [],
+    "created_at": "2026-06-09 16:04:32",
+    "updated_at": "2026-06-09 16:04:32"
+  },
+  {
+    "task_id": "任务-cf3734e4",
+    "road_name": "G320示范街景路段",
+    "image_path": "E:\\项目\\6.9\\路面裂缝标注软件\\assets\\streetview\\street_view_crack_frame_3.png",
+    "pavement_type": "街景路面",
+    "station_start": "K12+400",
+    "station_end": "K12+400",
+    "lane": "街景采集车道",
+    "location_name": "武汉市东西湖区示范道路",
+    "longitude": "114.305678",
+    "latitude": "30.572123",
+    "road_level": "城市主干路",
+    "direction": "上行",
+    "section_note": "街景模拟帧，用于路面裂缝快速预标注",
+    "source_type": "街景路面影像",
+    "collector": "演示采集员",
+    "annotator": "当前用户",
+    "status": "街景待标注",
+    "meter_per_pixel": null,
+    "cracks": [],
+    "regions": [],
+    "candidates": [],
+    "review_logs": [],
+    "created_at": "2026-06-09 16:04:33",
+    "updated_at": "2026-06-09 16:04:33"
+  },
+  {
+    "task_id": "任务-140135dd",
+    "road_name": "G320示范街景路段",
+    "image_path": "E:\\项目\\6.9\\路面裂缝标注软件\\assets\\streetview\\street_view_crack_frame_1.png",
+    "pavement_type": "街景路面",
+    "station_start": "K12+300",
+    "station_end": "K12+300",
+    "lane": "街景采集车道",
+    "location_name": "武汉市东西湖区示范道路",
+    "longitude": "114.305678",
+    "latitude": "30.572123",
+    "road_level": "城市主干路",
+    "direction": "上行",
+    "section_note": "街景模拟帧，用于路面裂缝快速预标注",
+    "source_type": "街景路面影像",
+    "collector": "演示采集员",
+    "annotator": "当前用户",
+    "status": "街景待标注",
+    "meter_per_pixel": null,
+    "cracks": [],
+    "regions": [],
+    "candidates": [],
+    "review_logs": [],
+    "created_at": "2026-06-09 16:04:34",
+    "updated_at": "2026-06-09 16:04:34"
+  },
+  {
+    "task_id": "任务-e18b83f0",
+    "road_name": "G320示范路段",
+    "image_path": "E:\\项目\\6.9\\路面裂缝标注软件\\assets\\samples\\realistic_sample_2.png",
+    "pavement_type": "沥青路面",
+    "station_start": "K12+000",
+    "station_end": "K12+100",
+    "lane": "上行一车道",
+    "location_name": "武汉市东西湖区示范路段",
+    "longitude": "114.305678",
+    "latitude": "30.572123",
+    "road_level": "城市主干路",
+    "direction": "北向南",
+    "section_note": "常规路面巡检影像",
+    "source_type": "普通路面影像",
+    "collector": "演示采集员",
+    "annotator": "当前用户",
+    "status": "自动识别后待复核",
+    "meter_per_pixel": null,
+    "cracks": [
+      {
+        "crack_id": "裂缝-9f9dca7e",
+        "points": [
+          [
+            1334.0,
+            742.0
+          ],
+          [
+            1140.0,
+            794.0
+          ],
+          [
+            920.0,
+            882.0
+          ],
+          [
+            706.0,
+            782.0
+          ],
+          [
+            532.0,
+            892.0
+          ],
+          [
+            330.0,
+            934.0
+          ],
+          [
+            92.0,
+            500.0
+          ]
+        ],
+        "crack_type": "横向裂缝",
+        "suggestion_type": "横向裂缝",
+        "severity": "严重",
+        "review_status": "待复核",
+        "review_comment": "",
+        "locked": false,
+        "ignored": false,
+        "source": "自动识别",
+        "width_samples": [
+          {
+            "p1": [
+              432.0,
+              918.0
+            ],
+            "p2": [
+              425.0,
+              883.0
+            ],
+            "width_mm": 35.6931365951495,
+            "created_at": "16:23:07"
+          },
+          {
+            "p1": [
+              432.0,
+              918.0
+            ],
+            "p2": [
+              425.0,
+              883.0
+            ],
+            "width_mm": 35.6931365951495,
+            "created_at": "16:23:07"
+          },
+          {
+            "p1": [
+              1042.0,
+              867.0
+            ],
+            "p2": [
+              1021.0,
+              815.0
+            ],
+            "width_mm": 56.08029957123981,
+            "created_at": "16:23:07"
+          }
+        ],
+        "repair_method": "灌缝胶修补",
+        "material_amount": 0.0,
+        "material_unit": "升",
+        "station": "未绑定",
+        "created_at": "2026-06-09 16:23:07"
+      },
+      {
+        "crack_id": "裂缝-fe278160",
+        "points": [
+          [
+            130.0,
+            910.0
+          ],
+          [
+            114.0,
+            905.0
+          ],
+          [
+            94.0,
+            904.0
+          ],
+          [
+            74.0,
+            888.0
+          ],
+          [
+            56.0,
+            884.0
+          ],
+          [
+            40.0,
+            876.0
+          ],
+          [
+            16.0,
+            900.0
+          ]
+        ],
+        "crack_type": "横向裂缝",
+        "suggestion_type": "横向裂缝",
+        "severity": "较重",
+        "review_status": "待复核",
+        "review_comment": "",
+        "locked": false,
+        "ignored": false,
+        "source": "自动识别",
+        "width_samples": [
+          {
+            "p1": [
+              65.0,
+              888.0
+            ],
+            "p2": [
+              67.0,
+              877.0
+            ],
+            "width_mm": 11.180339887498949,
+            "created_at": "16:23:07"
+          },
+          {
+            "p1": [
+              68.0,
+              916.0
+            ],
+            "p2": [
+              93.0,
+              885.0
+            ],
+            "width_mm": 39.824615503479755,
+            "created_at": "16:23:07"
+          },
+          {
+            "p1": [
+              68.0,
+              916.0
+            ],
+            "p2": [
+              93.0,
+              885.0
+            ],
+            "width_mm": 39.824615503479755,
+            "created_at": "16:23:07"
+          }
+        ],
+        "repair_method": "灌缝胶修补",
+        "material_amount": 0.0,
+        "material_unit": "升",
+        "station": "未绑定",
+        "created_at": "2026-06-09 16:23:07"
+      },
+      {
+        "crack_id": "裂缝-f2777f41",
+        "points": [
+          [
+            98.0,
+            296.0
+          ],
+          [
+            86.0,
+            312.0
+          ],
+          [
+            73.0,
+            322.0
+          ],
+          [
+            58.0,
+            334.0
+          ],
+          [
+            44.0,
+            332.0
+          ],
+          [
+            30.0,
+            334.0
+          ],
+          [
+            12.0,
+            315.0
+          ]
+        ],
+        "crack_type": "横向裂缝",
+        "suggestion_type": "横向裂缝",
+        "severity": "较重",
+        "review_status": "待复核",
+        "review_comment": "",
+        "locked": false,
+        "ignored": false,
+        "source": "自动识别",
+        "width_samples": [
+          {
+            "p1": [
+              38.0,
+              343.0
+            ],
+            "p2": [
+              37.0,
+              330.0
+            ],
+            "width_mm": 13.038404810405298,
+            "created_at": "16:23:07"
+          },
+          {
+            "p1": [
+              48.0,
+              353.0
+            ],
+            "p2": [
+              55.0,
+              303.0
+            ],
+            "width_mm": 50.48762224545735,
+            "created_at": "16:23:07"
+          },
+          {
+            "p1": [
+              48.0,
+              353.0
+            ],
+            "p2": [
+              55.0,
+              303.0
+            ],
+            "width_mm": 50.48762224545735,
+            "created_at": "16:23:07"
+          }
+        ],
+        "repair_method": "灌缝胶修补",
+        "material_amount": 0.0,
+        "material_unit": "升",
+        "station": "未绑定",
+        "created_at": "2026-06-09 16:23:07"
+      },
+      {
+        "crack_id": "裂缝-b5fe0be2",
+        "points": [
+          [
+            1378.0,
+            368.0
+          ],
+          [
+            1390.0,
+            378.0
+          ],
+          [
+            1404.0,
+            382.0
+          ],
+          [
+            1412.0,
+            398.0
+          ],
+          [
+            1412.0,
+            416.0
+          ],
+          [
+            1412.0,
+            430.0
+          ],
+          [
+            1428.0,
+            440.0
+          ]
+        ],
+        "crack_type": "斜向裂缝",
+        "suggestion_type": "斜向裂缝",
+        "severity": "较重",
+        "review_status": "待复核",
+        "review_comment": "",
+        "locked": false,
+        "ignored": false,
+        "source": "自动识别",
+        "width_samples": [
+          {
+            "p1": [
+              1400.0,
+              370.0
+            ],
+            "p2": [
+              1396.0,
+              382.0
+            ],
+            "width_mm": 12.649110640673518,
+            "created_at": "16:23:07"
+          },
+          {
+            "p1": [
+              1417.0,
+              386.0
+            ],
+            "p2": [
+              1387.0,
+              400.0
+            ],
+            "width_mm": 33.1058907144937,
+            "created_at": "16:23:07"
+          },
+          {
+            "p1": [
+              1417.0,
+              386.0
+            ],
+            "p2": [
+              1387.0,
+              400.0
+            ],
+            "width_mm": 33.1058907144937,
+            "created_at": "16:23:07"
+          }
+        ],
+        "repair_method": "灌缝胶修补",
+        "material_amount": 0.0,
+        "material_unit": "升",
+        "station": "未绑定",
+        "created_at": "2026-06-09 16:23:07"
+      },
+      {
+        "crack_id": "裂缝-3fa30ef2",
+        "points": [
+          [
+            130.0,
+            630.0
+          ],
+          [
+            122.0,
+            650.0
+          ],
+          [
+            108.0,
+            656.0
+          ],
+          [
+            96.0,
+            670.0
+          ],
+          [
+            78.0,
+            666.0
+          ],
+          [
+            64.0,
+            674.0
+          ],
+          [
+            53.0,
+            680.0
+          ]
+        ],
+        "crack_type": "斜向裂缝",
+        "suggestion_type": "斜向裂缝",
+        "severity": "较重",
+        "review_status": "待复核",
+        "review_comment": "",
+        "locked": false,
+        "ignored": false,
+        "source": "自动识别",
+        "width_samples": [
+          {
+            "p1": [
+              59.0,
+              679.0
+            ],
+            "p2": [
+              54.0,
+              669.0
+            ],
+            "width_mm": 11.180339887498949,
+            "created_at": "16:23:07"
+          },
+          {
+            "p1": [
+              79.0,
+              685.0
+            ],
+            "p2": [
+              61.0,
+              652.0
+            ],
+            "width_mm": 37.589892258425,
+            "created_at": "16:23:07"
+          },
+          {
+            "p1": [
+              79.0,
+              685.0
+            ],
+            "p2": [
+              61.0,
+              652.0
+            ],
+            "width_mm": 37.589892258425,
+            "created_at": "16:23:07"
+          }
+        ],
+        "repair_method": "灌缝胶修补",
+        "material_amount": 0.0,
+        "material_unit": "升",
+        "station": "未绑定",
+        "created_at": "2026-06-09 16:23:07"
+      },
+      {
+        "crack_id": "裂缝-cf938598",
+        "points": [
+          [
+            1318.0,
+            344.0
+          ],
+          [
+            1308.0,
+            354.0
+          ],
+          [
+            1290.0,
+            356.0
+          ],
+          [
+            1278.0,
+            366.0
+          ],
+          [
+            1262.0,
+            370.0
+          ],
+          [
+            1244.0,
+            370.0
+          ],
+          [
+            1230.0,
+            380.0
+          ]
+        ],
+        "crack_type": "横向裂缝",
+        "suggestion_type": "横向裂缝",
+        "severity": "较重",
+        "review_status": "待复核",
+        "review_comment": "",
+        "locked": false,
+        "ignored": false,
+        "source": "自动识别",
+        "width_samples": [
+          {
+            "p1": [
+              1273.0,
+              379.0
+            ],
+            "p2": [
+              1270.0,
+              367.0
+            ],
+            "width_mm": 12.36931687685298,
+            "created_at": "16:23:07"
+          },
+          {
+            "p1": [
+              1253.0,
+              386.0
+            ],
+            "p2": [
+              1253.0,
+              369.0
+            ],
+            "width_mm": 17.0,
+            "created_at": "16:23:07"
+          },
+          {
+            "p1": [
+              1303.0,
+              383.0
+            ],
+            "p2": [
+              1278.0,
+              353.0
+            ],
+            "width_mm": 39.05124837953327,
+            "created_at": "16:23:07"
+          }
+        ],
+        "repair_method": "灌缝胶修补",
+        "material_amount": 0.0,
+        "material_unit": "升",
+        "station": "未绑定",
+        "created_at": "2026-06-09 16:23:07"
+      },
+      {
+        "crack_id": "裂缝-081db078",
+        "points": [
+          [
+            64.0,
+            768.0
+          ],
+          [
+            44.0,
+            770.0
+          ],
+          [
+            26.0,
+            776.0
+          ],
+          [
+            26.0,
+            810.0
+          ],
+          [
+            14.0,
+            816.0
+          ],
+          [
+            8.0,
+            830.0
+          ]
+        ],
+        "crack_type": "斜向裂缝",
+        "suggestion_type": "斜向裂缝",
+        "severity": "较重",
+        "review_status": "待复核",
+        "review_comment": "",
+        "locked": false,
+        "ignored": false,
+        "source": "自动识别",
+        "width_samples": [
+          {
+            "p1": [
+              25.0,
+              824.0
+            ],
+            "p2": [
+              19.0,
+              810.0
+            ],
+            "width_mm": 15.231546211727817,
+            "created_at": "16:23:07"
+          },
+          {
+            "p1": [
+              25.0,
+              824.0
+            ],
+            "p2": [
+              19.0,
+              810.0
+            ],
+            "width_mm": 15.231546211727817,
+            "created_at": "16:23:07"
+          },
+          {
+            "p1": [
+              55.0,
+              782.0
+            ],
+            "p2": [
+              53.0,
+              763.0
+            ],
+            "width_mm": 19.1049731745428,
+            "created_at": "16:23:07"
+          }
+        ],
+        "repair_method": "灌缝胶修补",
+        "material_amount": 0.0,
+        "material_unit": "升",
+        "station": "未绑定",
+        "created_at": "2026-06-09 16:23:07"
+      },
+      {
+        "crack_id": "裂缝-e2432bc8",
+        "points": [
+          [
+            1262.0,
+            398.0
+          ],
+          [
+            1248.0,
+            404.0
+          ],
+          [
+            1238.0,
+            412.0
+          ],
+          [
+            1238.0,
+            432.0
+          ],
+          [
+            1206.0,
+            418.0
+          ],
+          [
+            1202.0,
+            434.0
+          ],
+          [
+            1201.0,
+            454.0
+          ]
+        ],
+        "crack_type": "斜向裂缝",
+        "suggestion_type": "斜向裂缝",
+        "severity": "较重",
+        "review_status": "待复核",
+        "review_comment": "",
+        "locked": false,
+        "ignored": false,
+        "source": "自动识别",
+        "width_samples": [
+          {
+            "p1": [
+              1264.0,
+              422.0
+            ],
+            "p2": [
+              1254.0,
+              399.0
+            ],
+            "width_mm": 25.079872407968907,
+            "created_at": "16:23:07"
+          },
+          {
+            "p1": [
+              1264.0,
+              422.0
+            ],
+            "p2": [
+              1216.0,
+              422.0
+            ],
+            "width_mm": 48.0,
+            "created_at": "16:23:07"
+          },
+          {
+            "p1": [
+              1264.0,
+              422.0
+            ],
+            "p2": [
+              1216.0,
+              422.0
+            ],
+            "width_mm": 48.0,
+            "created_at": "16:23:07"
+          }
+        ],
+        "repair_method": "灌缝胶修补",
+        "material_amount": 0.0,
+        "material_unit": "升",
+        "station": "未绑定",
+        "created_at": "2026-06-09 16:23:07"
+      },
+      {
+        "crack_id": "裂缝-a84684e5",
+        "points": [
+          [
+            155.0,
+            905.0
+          ],
+          [
+            156.0,
+            924.0
+          ],
+          [
+            152.0,
+            934.0
+          ],
+          [
+            146.0,
+            948.0
+          ],
+          [
+            134.0,
+            954.0
+          ],
+          [
+            120.0,
+            960.0
+          ],
+          [
+            121.0,
+            976.0
+          ]
+        ],
+        "crack_type": "斜向裂缝",
+        "suggestion_type": "斜向裂缝",
+        "severity": "较重",
+        "review_status": "待复核",
+        "review_comment": "",
+        "locked": false,
+        "ignored": false,
+        "source": "自动识别",
+        "width_samples": [
+          {
+            "p1": [
+              128.0,
+              959.0
+            ],
+            "p2": [
+              124.0,
+              951.0
+            ],
+            "width_mm": 8.94427190999916,
+            "created_at": "16:23:07"
+          },
+          {
+            "p1": [
+              128.0,
+              959.0
+            ],
+            "p2": [
+              124.0,
+              951.0
+            ],
+            "width_mm": 8.94427190999916,
+            "created_at": "16:23:07"
+          },
+          {
+            "p1": [
+              176.0,
+              913.0
+            ],
+            "p2": [
+              130.0,
+              916.0
+            ],
+            "width_mm": 46.09772228646444,
+            "created_at": "16:23:07"
+          }
+        ],
+        "repair_method": "灌缝胶修补",
+        "material_amount": 0.0,
+        "material_unit": "升",
+        "station": "未绑定",
+        "created_at": "2026-06-09 16:23:07"
+      },
+      {
+        "crack_id": "裂缝-0136447e",
+        "points": [
+          [
+            1296.0,
+            208.0
+          ],
+          [
+            1270.0,
+            204.0
+          ],
+          [
+            1274.0,
+            185.0
+          ],
+          [
+            1262.0,
+            174.0
+          ],
+          [
+            1250.0,
+            164.0
+          ]
+        ],
+        "crack_type": "斜向裂缝",
+        "suggestion_type": "斜向裂缝",
+        "severity": "较重",
+        "review_status": "待复核",
+        "review_comment": "",
+        "locked": false,
+        "ignored": false,
+        "source": "自动识别",
+        "width_samples": [
+          {
+            "p1": [
+              1265.0,
+              182.0
+            ],
+            "p2": [
+              1277.0,
+              170.0
+            ],
+            "width_mm": 16.97056274847714,
+            "created_at": "16:23:07"
+          },
+          {
+            "p1": [
+              1265.0,
+              182.0
+            ],
+            "p2": [
+              1277.0,
+              170.0
+            ],
+            "width_mm": 16.97056274847714,
+            "created_at": "16:23:07"
+          },
+          {
+            "p1": [
+              1265.0,
+              182.0
+            ],
+            "p2": [
+              1277.0,
+              170.0
+            ],
+            "width_mm": 16.97056274847714,
+            "created_at": "16:23:07"
+          }
+        ],
+        "repair_method": "灌缝胶修补",
+        "material_amount": 0.0,
+        "material_unit": "升",
+        "station": "未绑定",
+        "created_at": "2026-06-09 16:23:07"
+      },
+      {
+        "crack_id": "裂缝-01cbb4a4",
+        "points": [
+          [
+            1334.0,
+            398.0
+          ],
+          [
+            1322.0,
+            394.0
+          ],
+          [
+            1310.0,
+            396.0
+          ],
+          [
+            1292.0,
+            408.0
+          ],
+          [
+            1286.0,
+            418.0
+          ],
+          [
+            1281.0,
+            432.0
+          ]
+        ],
+        "crack_type": "斜向裂缝",
+        "suggestion_type": "斜向裂缝",
+        "severity": "较重",
+        "review_status": "待复核",
+        "review_comment": "",
+        "locked": false,
+        "ignored": false,
+        "source": "自动识别",
+        "width_samples": [
+          {
+            "p1": [
+              1319.0,
+              422.0
+            ],
+            "p2": [
+              1330.0,
+              390.0
+            ],
+            "width_mm": 33.83784863137726,
+            "created_at": "16:23:07"
+          },
+          {
+            "p1": [
+              1321.0,
+              423.0
+            ],
+            "p2": [
+              1315.0,
+              389.0
+            ],
+            "width_mm": 34.52535300326414,
+            "created_at": "16:23:07"
+          },
+          {
+            "p1": [
+              1302.0,
+              421.0
+            ],
+            "p2": [
+              1264.0,
+              398.0
+            ],
+            "width_mm": 44.41846462902562,
+            "created_at": "16:23:07"
+          }
+        ],
+        "repair_method": "灌缝胶修补",
+        "material_amount": 0.0,
+        "material_unit": "升",
+        "station": "未绑定",
+        "created_at": "2026-06-09 16:23:07"
+      },
+      {
+        "crack_id": "裂缝-ffbf36c9",
+        "points": [
+          [
+            1352.0,
+            374.0
+          ],
+          [
+            1364.0,
+            382.0
+          ],
+          [
+            1358.0,
+            394.0
+          ],
+          [
+            1364.0,
+            406.0
+          ],
+          [
+            1370.0,
+            416.0
+          ],
+          [
+            1368.0,
+            428.0
+          ],
+          [
+            1380.0,
+            436.0
+          ]
+        ],
+        "crack_type": "纵向裂缝",
+        "suggestion_type": "纵向裂缝",
+        "severity": "一般",
+        "review_status": "待复核",
+        "review_comment": "",
+        "locked": false,
+        "ignored": false,
+        "source": "自动识别",
+        "width_samples": [
+          {
+            "p1": [
+              1361.0,
+              374.0
+            ],
+            "p2": [
+              1357.0,
+              379.0
+            ],
+            "width_mm": 6.4031242374328485,
+            "created_at": "16:23:07"
+          },
+          {
+            "p1": [
+              1361.0,
+              374.0
+            ],
+            "p2": [
+              1357.0,
+              379.0
+            ],
+            "width_mm": 6.4031242374328485,
+            "created_at": "16:23:07"
+          },
+          {
+            "p1": [
+              1361.0,
+              374.0
+            ],
+            "p2": [
+              1357.0,
+              379.0
+            ],
+            "width_mm": 6.4031242374328485,
+            "created_at": "16:23:07"
+          }
+        ],
+        "repair_method": "灌缝胶修补",
+        "material_amount": 0.0,
+        "material_unit": "升",
+        "station": "未绑定",
+        "created_at": "2026-06-09 16:23:07"
+      },
+      {
+        "crack_id": "裂缝-7e7422e3",
+        "points": [
+          [
+            250.0,
+            966.0
+          ],
+          [
+            234.0,
+            967.0
+          ],
+          [
+            231.0,
+            979.0
+          ],
+          [
+            226.0,
+            994.0
+          ],
+          [
+            214.0,
+            1000.0
+          ],
+          [
+            202.0,
+            1004.0
+          ],
+          [
+            185.0,
+            1004.0
+          ]
+        ],
+        "crack_type": "斜向裂缝",
+        "suggestion_type": "斜向裂缝",
+        "severity": "较重",
+        "review_status": "待复核",
+        "review_comment": "",
+        "locked": false,
+        "ignored": false,
+        "source": "自动识别",
+        "width_samples": [
+          {
+            "p1": [
+              235.0,
+              989.0
+            ],
+            "p2": [
+              209.0,
+              980.0
+            ],
+            "width_mm": 27.51363298439521,
+            "created_at": "16:23:07"
+          },
+          {
+            "p1": [
+              235.0,
+              989.0
+            ],
+            "p2": [
+              209.0,
+              980.0
+            ],
+            "width_mm": 27.51363298439521,
+            "created_at": "16:23:07"
+          },
+          {
+            "p1": [
+              235.0,
+              989.0
+            ],
+            "p2": [
+              209.0,
+              980.0
+            ],
+            "width_mm": 27.51363298439521,
+            "created_at": "16:23:07"
+          }
+        ],
+        "repair_method": "灌缝胶修补",
+        "material_amount": 0.0,
+        "material_unit": "升",
+        "station": "未绑定",
+        "created_at": "2026-06-09 16:23:07"
+      },
+      {
+        "crack_id": "裂缝-99e724e0",
+        "points": [
+          [
+            1116.0,
+            144.0
+          ],
+          [
+            1132.0,
+            160.0
+          ],
+          [
+            1140.0,
+            172.0
+          ],
+          [
+            1144.0,
+            182.0
+          ],
+          [
+            1140.0,
+            196.0
+          ],
+          [
+            1136.0,
+            210.0
+          ]
+        ],
+        "crack_type": "纵向裂缝",
+        "suggestion_type": "纵向裂缝",
+        "severity": "较重",
+        "review_status": "待复核",
+        "review_comment": "",
+        "locked": false,
+        "ignored": false,
+        "source": "自动识别",
+        "width_samples": [
+          {
+            "p1": [
+              1126.0,
+              150.0
+            ],
+            "p2": [
+              1123.0,
+              153.0
+            ],
+            "width_mm": 4.242640687119285,
+            "created_at": "16:23:07"
+          },
+          {
+            "p1": [
+              1156.0,
+              153.0
+            ],
+            "p2": [
+              1125.0,
+              173.0
+            ],
+            "width_mm": 36.89173349139343,
+            "created_at": "16:23:07"
+          },
+          {
+            "p1": [
+              1156.0,
+              153.0
+            ],
+            "p2": [
+              1125.0,
+              173.0
+            ],
+            "width_mm": 36.89173349139343,
+            "created_at": "16:23:07"
+          }
+        ],
+        "repair_method": "灌缝胶修补",
+        "material_amount": 0.0,
+        "material_unit": "升",
+        "station": "未绑定",
+        "created_at": "2026-06-09 16:23:07"
+      },
+      {
+        "crack_id": "裂缝-eeff950e",
+        "points": [
+          [
+            520.0,
+            54.0
+          ],
+          [
+            518.0,
+            36.0
+          ],
+          [
+            506.0,
+            34.0
+          ],
+          [
+            491.0,
+            28.0
+          ],
+          [
+            478.0,
+            10.0
+          ]
+        ],
+        "crack_type": "斜向裂缝",
+        "suggestion_type": "斜向裂缝",
+        "severity": "较重",
+        "review_status": "待复核",
+        "review_comment": "",
+        "locked": false,
+        "ignored": false,
+        "source": "自动识别",
+        "width_samples": [
+          {
+            "p1": [
+              493.0,
+              44.0
+            ],
+            "p2": [
+              503.0,
+              21.0
+            ],
+            "width_mm": 25.079872407968907,
+            "created_at": "16:23:07"
+          },
+          {
+            "p1": [
+              493.0,
+              44.0
+            ],
+            "p2": [
+              503.0,
+              21.0
+            ],
+            "width_mm": 25.079872407968907,
+            "created_at": "16:23:07"
+          },
+          {
+            "p1": [
+              509.0,
+              56.0
+            ],
+            "p2": [
+              514.0,
+              23.0
+            ],
+            "width_mm": 33.37663853655727,
+            "created_at": "16:23:07"
+          }
+        ],
+        "repair_method": "灌缝胶修补",
+        "material_amount": 0.0,
+        "material_unit": "升",
+        "station": "未绑定",
+        "created_at": "2026-06-09 16:23:07"
+      },
+      {
+        "crack_id": "裂缝-f0333f0e",
+        "points": [
+          [
+            1178.0,
+            400.0
+          ],
+          [
+            1170.0,
+            422.0
+          ],
+          [
+            1158.0,
+            432.0
+          ],
+          [
+            1148.0,
+            424.0
+          ],
+          [
+            1136.0,
+            428.0
+          ],
+          [
+            1126.0,
+            414.0
+          ],
+          [
+            1117.0,
+            402.0
+          ]
+        ],
+        "crack_type": "斜向裂缝",
+        "suggestion_type": "斜向裂缝",
+        "severity": "较重",
+        "review_status": "待复核",
+        "review_comment": "",
+        "locked": false,
+        "ignored": false,
+        "source": "自动识别",
+        "width_samples": [
+          {
+            "p1": [
+              1203.0,
+              422.0
+            ],
+            "p2": [
+              1165.0,
+              408.0
+            ],
+            "width_mm": 40.496913462633174,
+            "created_at": "16:23:07"
+          },
+          {
+            "p1": [
+              1203.0,
+              422.0
+            ],
+            "p2": [
+              1165.0,
+              408.0
+            ],
+            "width_mm": 40.496913462633174,
+            "created_at": "16:23:07"
+          },
+          {
+            "p1": [
+              1203.0,
+              422.0
+            ],
+            "p2": [
+              1165.0,
+              408.0
+            ],
+            "width_mm": 40.496913462633174,
+            "created_at": "16:23:07"
+          }
+        ],
+        "repair_method": "灌缝胶修补",
+        "material_amount": 0.0,
+        "material_unit": "升",
+        "station": "未绑定",
+        "created_at": "2026-06-09 16:23:07"
+      }
+    ],
+    "regions": [],
+    "candidates": [],
+    "review_logs": [],
+    "created_at": "2026-06-09 16:23:01",
+    "updated_at": "2026-06-09 16:23:07"
+  },
+  {
+    "task_id": "任务-fce91191",
+    "road_name": "G320示范路段",
+    "image_path": "E:\\项目\\6.9\\路面裂缝标注软件\\assets\\samples\\realistic_sample_3.png",
+    "pavement_type": "沥青路面",
+    "station_start": "K12+000",
+    "station_end": "K12+100",
+    "lane": "上行一车道",
+    "location_name": "武汉市东西湖区示范路段",
+    "longitude": "114.305678",
+    "latitude": "30.572123",
+    "road_level": "城市主干路",
+    "direction": "北向南",
+    "section_note": "常规路面巡检影像",
+    "source_type": "普通路面影像",
+    "collector": "演示采集员",
+    "annotator": "当前用户",
+    "status": "待标注",
+    "meter_per_pixel": null,
+    "cracks": [],
+    "regions": [],
+    "candidates": [],
+    "review_logs": [],
+    "created_at": "2026-06-09 16:48:04",
+    "updated_at": "2026-06-09 16:48:04"
+  },
+  {
+    "task_id": "任务-8b4c9f56",
+    "road_name": "G320示范路段",
+    "image_path": "E:\\项目\\6.9\\路面裂缝标注软件\\assets\\samples\\realistic_sample_4.png",
+    "pavement_type": "沥青路面",
+    "station_start": "K12+000",
+    "station_end": "K12+100",
+    "lane": "上行一车道",
+    "location_name": "武汉市东西湖区示范路段",
+    "longitude": "114.305678",
+    "latitude": "30.572123",
+    "road_level": "城市主干路",
+    "direction": "北向南",
+    "section_note": "常规路面巡检影像",
+    "source_type": "普通路面影像",
+    "collector": "演示采集员",
+    "annotator": "当前用户",
+    "status": "自动识别后待复核（增强）",
+    "meter_per_pixel": null,
+    "cracks": [],
+    "regions": [],
+    "candidates": [],
+    "review_logs": [],
+    "created_at": "2026-06-09 16:48:06",
+    "updated_at": "2026-06-09 16:49:12"
+  },
+  {
+    "task_id": "任务-55268494",
+    "road_name": "G320示范街景路段",
+    "image_path": "E:\\项目\\6.9\\路面裂缝标注软件\\assets\\streetview\\real_street_crack_view_1.png",
+    "pavement_type": "街景路面",
+    "station_start": "K12+300",
+    "station_end": "K12+300",
+    "lane": "街景采集车道",
+    "location_name": "武汉市东西湖区示范道路",
+    "longitude": "114.305678",
+    "latitude": "30.572123",
+    "road_level": "城市主干路",
+    "direction": "上行",
+    "section_note": "街景模拟帧，用于路面裂缝快速预标注",
+    "source_type": "街景路面影像",
+    "collector": "演示采集员",
+    "annotator": "当前用户",
+    "status": "标注中",
+    "meter_per_pixel": null,
+    "cracks": [],
+    "regions": [],
+    "candidates": [],
+    "review_logs": [],
+    "created_at": "2026-06-09 17:16:00",
+    "updated_at": "2026-06-09 17:17:01"
+  },
+  {
+    "task_id": "任务-c51cf451",
+    "road_name": "G320示范路段",
+    "image_path": "E:\\项目\\6.9\\路面裂缝标注软件\\assets\\samples\\sample_road_crack_2.png",
+    "pavement_type": "沥青路面",
+    "station_start": "K12+000",
+    "station_end": "K12+100",
+    "lane": "匝道",
+    "location_name": "武汉市东西湖区示范路段",
+    "longitude": "114.305678",
+    "latitude": "30.572123",
+    "road_level": "城市主干路",
+    "direction": "南向北",
+    "section_note": "常规路面巡检影像",
+    "source_type": "普通路面影像",
+    "collector": "演示采集员",
+    "annotator": "当前用户",
+    "status": "待标注",
+    "meter_per_pixel": null,
+    "cracks": [],
+    "regions": [],
+    "candidates": [],
+    "review_logs": [],
+    "created_at": "2026-06-09 17:49:14",
+    "updated_at": "2026-06-09 17:49:14"
+  },
+  {
+    "task_id": "任务-ee39cfd5",
+    "road_name": "G320示范路段",
+    "image_path": "E:\\项目\\6.9\\路面裂缝标注软件\\assets\\samples\\sample_road_crack_3.png",
+    "pavement_type": "沥青路面",
+    "station_start": "K12+000",
+    "station_end": "K12+100",
+    "lane": "上行二车道",
+    "location_name": "武汉市东西湖区示范路段",
+    "longitude": "114.305678",
+    "latitude": "30.572123",
+    "road_level": "城市主干路",
+    "direction": "南向北",
+    "section_note": "常规路面巡检影像",
+    "source_type": "普通路面影像",
+    "collector": "演示采集员",
+    "annotator": "当前用户",
+    "status": "待标注",
+    "meter_per_pixel": null,
+    "cracks": [],
+    "regions": [],
+    "candidates": [],
+    "review_logs": [],
+    "created_at": "2026-06-09 17:49:16",
+    "updated_at": "2026-06-09 17:49:16"
+  },
+  {
+    "task_id": "任务-6c6a955e",
+    "road_name": "G320示范路段",
+    "image_path": "E:\\项目\\6.9\\路面裂缝标注软件\\assets\\samples\\sample_road_crack_4.png",
+    "pavement_type": "沥青路面",
+    "station_start": "K12+000",
+    "station_end": "K12+100",
+    "lane": "上行二车道",
+    "location_name": "武汉市东西湖区示范路段",
+    "longitude": "114.305678",
+    "latitude": "30.572123",
+    "road_level": "城市主干路",
+    "direction": "南向北",
+    "section_note": "常规路面巡检影像",
+    "source_type": "普通路面影像",
+    "collector": "演示采集员",
+    "annotator": "当前用户",
+    "status": "待标注",
+    "meter_per_pixel": null,
+    "cracks": [],
+    "regions": [],
+    "candidates": [],
+    "review_logs": [],
+    "created_at": "2026-06-09 17:49:16",
+    "updated_at": "2026-06-09 17:49:16"
+  },
+  {
+    "task_id": "任务-a4979c02",
+    "road_name": "G320示范路段",
+    "image_path": "E:\\项目\\6.9\\路面裂缝标注软件\\assets\\samples\\large_realistic_road_crack_1.png",
+    "pavement_type": "沥青路面",
+    "station_start": "K12+000",
+    "station_end": "K12+100",
+    "lane": "上行二车道",
+    "location_name": "武汉市东西湖区示范路段",
+    "longitude": "114.305678",
+    "latitude": "30.572123",
+    "road_level": "城市主干路",
+    "direction": "南向北",
+    "section_note": "常规路面巡检影像",
+    "source_type": "普通路面影像",
+    "collector": "演示采集员",
+    "annotator": "当前用户",
+    "status": "待标注",
+    "meter_per_pixel": null,
+    "cracks": [],
+    "regions": [],
+    "candidates": [],
+    "review_logs": [],
+    "created_at": "2026-06-09 17:49:17",
+    "updated_at": "2026-06-09 17:49:17"
+  },
+  {
+    "task_id": "任务-8b864af4",
+    "road_name": "G320示范路段",
+    "image_path": "E:\\项目\\6.9\\路面裂缝标注软件\\assets\\samples\\large_realistic_road_crack_2.png",
+    "pavement_type": "沥青路面",
+    "station_start": "K12+000",
+    "station_end": "K12+100",
+    "lane": "上行二车道",
+    "location_name": "武汉市东西湖区示范路段",
+    "longitude": "114.305678",
+    "latitude": "30.572123",
+    "road_level": "城市主干路",
+    "direction": "南向北",
+    "section_note": "常规路面巡检影像",
+    "source_type": "普通路面影像",
+    "collector": "演示采集员",
+    "annotator": "当前用户",
+    "status": "待标注",
+    "meter_per_pixel": null,
+    "cracks": [],
+    "regions": [],
+    "candidates": [],
+    "review_logs": [],
+    "created_at": "2026-06-09 17:49:19",
+    "updated_at": "2026-06-09 17:49:19"
+  },
+  {
+    "task_id": "任务-0b1343bb",
+    "road_name": "G320示范路段",
+    "image_path": "E:\\项目\\6.9\\路面裂缝标注软件\\assets\\samples\\large_realistic_road_crack_3.png",
+    "pavement_type": "沥青路面",
+    "station_start": "K12+000",
+    "station_end": "K12+100",
+    "lane": "上行二车道",
+    "location_name": "武汉市东西湖区示范路段",
+    "longitude": "114.305678",
+    "latitude": "30.572123",
+    "road_level": "城市主干路",
+    "direction": "南向北",
+    "section_note": "常规路面巡检影像",
+    "source_type": "普通路面影像",
+    "collector": "演示采集员",
+    "annotator": "当前用户",
+    "status": "待标注",
+    "meter_per_pixel": null,
+    "cracks": [],
+    "regions": [],
+    "candidates": [],
+    "review_logs": [],
+    "created_at": "2026-06-09 17:49:20",
+    "updated_at": "2026-06-09 17:49:20"
+  },
+  {
+    "task_id": "任务-4ec4423e",
+    "road_name": "G320示范路段",
+    "image_path": "E:\\项目\\6.9\\路面裂缝标注软件\\assets\\samples\\large_realistic_road_crack_4.png",
+    "pavement_type": "沥青路面",
+    "station_start": "K12+000",
+    "station_end": "K12+100",
+    "lane": "上行二车道",
+    "location_name": "武汉市东西湖区示范路段",
+    "longitude": "114.305678",
+    "latitude": "30.572123",
+    "road_level": "城市主干路",
+    "direction": "南向北",
+    "section_note": "常规路面巡检影像",
+    "source_type": "普通路面影像",
+    "collector": "演示采集员",
+    "annotator": "当前用户",
+    "status": "待标注",
+    "meter_per_pixel": null,
+    "cracks": [],
+    "regions": [],
+    "candidates": [],
+    "review_logs": [],
+    "created_at": "2026-06-09 17:49:20",
+    "updated_at": "2026-06-09 17:49:20"
+  },
+  {
+    "task_id": "任务-56ecb0af",
+    "road_name": "G320示范路段",
+    "image_path": "E:\\项目\\6.9\\路面裂缝标注软件\\assets\\samples\\realistic_sample_1.png",
+    "pavement_type": "沥青路面",
+    "station_start": "K12+000",
+    "station_end": "K12+100",
+    "lane": "上行二车道",
+    "location_name": "武汉市东西湖区示范路段",
+    "longitude": "114.305678",
+    "latitude": "30.572123",
+    "road_level": "城市主干路",
+    "direction": "南向北",
+    "section_note": "常规路面巡检影像",
+    "source_type": "普通路面影像",
+    "collector": "演示采集员",
+    "annotator": "当前用户",
+    "status": "待标注",
+    "meter_per_pixel": null,
+    "cracks": [],
+    "regions": [],
+    "candidates": [],
+    "review_logs": [],
+    "created_at": "2026-06-09 17:49:21",
+    "updated_at": "2026-06-09 17:49:21"
+  },
+  {
+    "task_id": "任务-77b62e9e",
+    "road_name": "G320示范路段",
+    "image_path": "E:\\项目\\6.9\\路面裂缝标注软件\\assets\\samples\\realistic_sample_2.png",
+    "pavement_type": "沥青路面",
+    "station_start": "K12+000",
+    "station_end": "K12+100",
+    "lane": "上行二车道",
+    "location_name": "武汉市东西湖区示范路段",
+    "longitude": "114.305678",
+    "latitude": "30.572123",
+    "road_level": "城市主干路",
+    "direction": "南向北",
+    "section_note": "常规路面巡检影像",
+    "source_type": "普通路面影像",
+    "collector": "演示采集员",
+    "annotator": "当前用户",
+    "status": "待标注",
+    "meter_per_pixel": null,
+    "cracks": [],
+    "regions": [],
+    "candidates": [],
+    "review_logs": [],
+    "created_at": "2026-06-09 17:49:21",
+    "updated_at": "2026-06-09 17:49:21"
+  },
+  {
+    "task_id": "任务-8b90808c",
+    "road_name": "G320示范路段",
+    "image_path": "E:\\项目\\6.9\\路面裂缝标注软件\\assets\\samples\\realistic_sample_3.png",
+    "pavement_type": "沥青路面",
+    "station_start": "K12+000",
+    "station_end": "K12+100",
+    "lane": "上行二车道",
+    "location_name": "武汉市东西湖区示范路段",
+    "longitude": "114.305678",
+    "latitude": "30.572123",
+    "road_level": "城市主干路",
+    "direction": "南向北",
+    "section_note": "常规路面巡检影像",
+    "source_type": "普通路面影像",
+    "collector": "演示采集员",
+    "annotator": "当前用户",
+    "status": "待标注",
+    "meter_per_pixel": null,
+    "cracks": [],
+    "regions": [],
+    "candidates": [],
+    "review_logs": [],
+    "created_at": "2026-06-09 17:49:22",
+    "updated_at": "2026-06-09 17:49:22"
+  },
+  {
+    "task_id": "任务-9045e318",
+    "road_name": "G320示范路段",
+    "image_path": "E:\\项目\\6.9\\路面裂缝标注软件\\assets\\samples\\realistic_sample_4.png",
+    "pavement_type": "沥青路面",
+    "station_start": "K12+000",
+    "station_end": "K12+100",
+    "lane": "上行二车道",
+    "location_name": "武汉市东西湖区示范路段",
+    "longitude": "114.305678",
+    "latitude": "30.572123",
+    "road_level": "城市主干路",
+    "direction": "南向北",
+    "section_note": "常规路面巡检影像",
+    "source_type": "普通路面影像",
+    "collector": "演示采集员",
+    "annotator": "当前用户",
+    "status": "待标注",
+    "meter_per_pixel": null,
+    "cracks": [],
+    "regions": [],
+    "candidates": [],
+    "review_logs": [],
+    "created_at": "2026-06-09 17:49:22",
+    "updated_at": "2026-06-09 17:49:22"
+  },
+  {
+    "task_id": "任务-6b797b98",
+    "road_name": "G320示范路段",
+    "image_path": "E:\\项目\\6.9\\路面裂缝标注软件\\assets\\samples\\sample_road_crack_1.png",
+    "pavement_type": "沥青路面",
+    "station_start": "K12+000",
+    "station_end": "K12+100",
+    "lane": "上行二车道",
+    "location_name": "武汉市东西湖区示范路段",
+    "longitude": "114.305678",
+    "latitude": "30.572123",
+    "road_level": "城市主干路",
+    "direction": "南向北",
+    "section_note": "常规路面巡检影像",
+    "source_type": "普通路面影像",
+    "collector": "演示采集员",
+    "annotator": "当前用户",
+    "status": "待标注",
+    "meter_per_pixel": null,
+    "cracks": [],
+    "regions": [],
+    "candidates": [],
+    "review_logs": [],
+    "created_at": "2026-06-09 17:49:23",
+    "updated_at": "2026-06-09 17:49:23"
+  },
+  {
+    "task_id": "任务-2554ab9e",
+    "road_name": "G320示范路段",
+    "image_path": "E:\\项目\\6.9\\路面裂缝标注软件\\assets\\samples\\sample_road_crack_2.png",
+    "pavement_type": "沥青路面",
+    "station_start": "K12+000",
+    "station_end": "K12+100",
+    "lane": "上行二车道",
+    "location_name": "武汉市东西湖区示范路段",
+    "longitude": "114.305678",
+    "latitude": "30.572123",
+    "road_level": "城市主干路",
+    "direction": "南向北",
+    "section_note": "常规路面巡检影像",
+    "source_type": "普通路面影像",
+    "collector": "演示采集员",
+    "annotator": "当前用户",
+    "status": "待标注",
+    "meter_per_pixel": null,
+    "cracks": [],
+    "regions": [],
+    "candidates": [],
+    "review_logs": [],
+    "created_at": "2026-06-09 17:49:24",
+    "updated_at": "2026-06-09 17:49:24"
+  },
+  {
+    "task_id": "任务-0fd75370",
+    "road_name": "G320示范路段",
+    "image_path": "E:\\项目\\6.9\\路面裂缝标注软件\\assets\\samples\\sample_road_crack_3.png",
+    "pavement_type": "沥青路面",
+    "station_start": "K12+000",
+    "station_end": "K12+100",
+    "lane": "上行二车道",
+    "location_name": "武汉市东西湖区示范路段",
+    "longitude": "114.305678",
+    "latitude": "30.572123",
+    "road_level": "城市主干路",
+    "direction": "南向北",
+    "section_note": "常规路面巡检影像",
+    "source_type": "普通路面影像",
+    "collector": "演示采集员",
+    "annotator": "当前用户",
+    "status": "待标注",
+    "meter_per_pixel": null,
+    "cracks": [],
+    "regions": [],
+    "candidates": [],
+    "review_logs": [],
+    "created_at": "2026-06-09 17:49:24",
+    "updated_at": "2026-06-09 17:49:24"
+  },
+  {
+    "task_id": "任务-92dbbde7",
+    "road_name": "G320示范路段",
+    "image_path": "E:\\项目\\6.9\\路面裂缝标注软件\\assets\\samples\\sample_road_crack_4.png",
+    "pavement_type": "沥青路面",
+    "station_start": "K12+000",
+    "station_end": "K12+100",
+    "lane": "上行二车道",
+    "location_name": "武汉市东西湖区示范路段",
+    "longitude": "114.305678",
+    "latitude": "30.572123",
+    "road_level": "城市主干路",
+    "direction": "南向北",
+    "section_note": "常规路面巡检影像",
+    "source_type": "普通路面影像",
+    "collector": "演示采集员",
+    "annotator": "当前用户",
+    "status": "待标注",
+    "meter_per_pixel": null,
+    "cracks": [],
+    "regions": [],
+    "candidates": [],
+    "review_logs": [],
+    "created_at": "2026-06-09 17:49:24",
+    "updated_at": "2026-06-09 17:49:24"
+  },
+  {
+    "task_id": "任务-6763ce74",
+    "road_name": "G320示范路段",
+    "image_path": "E:\\项目\\6.9\\路面裂缝标注软件\\assets\\samples\\large_realistic_road_crack_1.png",
+    "pavement_type": "沥青路面",
+    "station_start": "K12+000",
+    "station_end": "K12+100",
+    "lane": "上行二车道",
+    "location_name": "武汉市东西湖区示范路段",
+    "longitude": "114.305678",
+    "latitude": "30.572123",
+    "road_level": "城市主干路",
+    "direction": "南向北",
+    "section_note": "常规路面巡检影像",
+    "source_type": "普通路面影像",
+    "collector": "演示采集员",
+    "annotator": "当前用户",
+    "status": "待标注",
+    "meter_per_pixel": null,
+    "cracks": [],
+    "regions": [],
+    "candidates": [],
+    "review_logs": [],
+    "created_at": "2026-06-09 17:49:25",
+    "updated_at": "2026-06-09 17:49:25"
+  },
+  {
+    "task_id": "任务-4ca3d08c",
+    "road_name": "G320示范路段",
+    "image_path": "E:\\项目\\6.9\\路面裂缝标注软件\\assets\\samples\\large_realistic_road_crack_2.png",
+    "pavement_type": "沥青路面",
+    "station_start": "K12+000",
+    "station_end": "K12+100",
+    "lane": "上行二车道",
+    "location_name": "武汉市东西湖区示范路段",
+    "longitude": "114.305678",
+    "latitude": "30.572123",
+    "road_level": "城市主干路",
+    "direction": "南向北",
+    "section_note": "常规路面巡检影像",
+    "source_type": "普通路面影像",
+    "collector": "演示采集员",
+    "annotator": "当前用户",
+    "status": "待标注",
+    "meter_per_pixel": null,
+    "cracks": [],
+    "regions": [],
+    "candidates": [],
+    "review_logs": [],
+    "created_at": "2026-06-09 17:49:25",
+    "updated_at": "2026-06-09 17:49:25"
+  },
+  {
+    "task_id": "任务-10c704dd",
+    "road_name": "G320示范路段",
+    "image_path": "E:\\项目\\6.9\\路面裂缝标注软件\\assets\\samples\\large_realistic_road_crack_3.png",
+    "pavement_type": "沥青路面",
+    "station_start": "K12+000",
+    "station_end": "K12+100",
+    "lane": "上行二车道",
+    "location_name": "武汉市东西湖区示范路段",
+    "longitude": "114.305678",
+    "latitude": "30.572123",
+    "road_level": "城市主干路",
+    "direction": "南向北",
+    "section_note": "常规路面巡检影像",
+    "source_type": "普通路面影像",
+    "collector": "演示采集员",
+    "annotator": "当前用户",
+    "status": "待标注",
+    "meter_per_pixel": null,
+    "cracks": [],
+    "regions": [],
+    "candidates": [],
+    "review_logs": [],
+    "created_at": "2026-06-09 17:49:27",
+    "updated_at": "2026-06-09 17:49:27"
+  },
+  {
+    "task_id": "任务-1a9f1d8c",
+    "road_name": "G320示范路段",
+    "image_path": "E:\\项目\\6.9\\路面裂缝标注软件\\assets\\samples\\large_realistic_road_crack_4.png",
+    "pavement_type": "沥青路面",
+    "station_start": "K12+000",
+    "station_end": "K12+100",
+    "lane": "上行二车道",
+    "location_name": "武汉市东西湖区示范路段",
+    "longitude": "114.305678",
+    "latitude": "30.572123",
+    "road_level": "城市主干路",
+    "direction": "南向北",
+    "section_note": "常规路面巡检影像",
+    "source_type": "普通路面影像",
+    "collector": "演示采集员",
+    "annotator": "当前用户",
+    "status": "待标注",
+    "meter_per_pixel": null,
+    "cracks": [],
+    "regions": [],
+    "candidates": [],
+    "review_logs": [],
+    "created_at": "2026-06-09 17:49:27",
+    "updated_at": "2026-06-09 17:49:27"
+  },
+  {
+    "task_id": "任务-68cb5aad",
+    "road_name": "G320示范路段",
+    "image_path": "E:\\项目\\6.9\\路面裂缝标注软件\\assets\\samples\\realistic_sample_1.png",
+    "pavement_type": "沥青路面",
+    "station_start": "K12+000",
+    "station_end": "K12+100",
+    "lane": "上行二车道",
+    "location_name": "武汉市东西湖区示范路段",
+    "longitude": "114.305678",
+    "latitude": "30.572123",
+    "road_level": "城市主干路",
+    "direction": "南向北",
+    "section_note": "常规路面巡检影像",
+    "source_type": "普通路面影像",
+    "collector": "演示采集员",
+    "annotator": "当前用户",
+    "status": "标注中",
+    "meter_per_pixel": 0.0011937750242892343,
+    "cracks": [
+      {
+        "crack_id": "裂缝-b835ef6f",
+        "points": [
+          [
+            6.703703703703812,
+            494.15873015873024
+          ],
+          [
+            133.6965917107584,
+            474.6110493827161
+          ],
+          [
+            229.82211640211645,
+            461.76467813051147
+          ],
+          [
+            297.7713359788361,
+            455.1335978835979
+          ],
+          [
+            358.69762786596124,
+            455.7983818342152
+          ],
+          [
+            421.84492063492064,
+            465.2601807760142
+          ],
+          [
+            482.41128747795403,
+            477.0291710758378
+          ],
+          [
+            533.622795414462,
+            484.08003086419757
+          ],
+          [
+            579.5152336860668,
+            487.21321428571434
+          ],
+          [
+            630.2798280423278,
+            488.3249118165785
+          ],
+          [
+            691.9227777777776,
+            487.29701058201067
+          ],
+          [
+            761.5080202821867,
+            484.90442680776016
+          ],
+          [
+            834.5073633156965,
+            481.3402910052911
+          ],
+          [
+            906.2154453262785,
+            475.37399470899476
+          ],
+          [
+            981.0287786596118,
+            467.74294532627863
+          ],
+          [
+            1070.46815696649,
+            461.1318165784832
+          ],
+          [
+            1174.6413183421514,
+            456.3035537918871
+          ],
+          [
+            1275.7124206349204,
+            451.6867768959436
+          ],
+          [
+            1360.1814814814811,
+            446.9893959435626
+          ],
+          [
+            1431.7195767195765,
+            443.0828924162258
+          ]
+        ],
+        "crack_type": "横向裂缝",
+        "suggestion_type": "横向裂缝",
+        "severity": "较重",
+        "review_status": "待复核",
+        "review_comment": "",
+        "locked": false,
+        "ignored": false,
+        "source": "人工描绘",
+        "width_samples": [
+          {
+            "p1": [
+              264.0,
+              456.0
+            ],
+            "p2": [
+              264.0,
+              459.0
+            ],
+            "width_mm": 3.581325072867703,
+            "created_at": "17:51:39"
+          },
+          {
+            "p1": [
+              605.0,
+              481.0
+            ],
+            "p2": [
+              605.0,
+              499.0
+            ],
+            "width_mm": 21.48795043720622,
+            "created_at": "17:51:39"
+          },
+          {
+            "p1": [
+              456.0,
+              451.0
+            ],
+            "p2": [
+              450.0,
+              484.0
+            ],
+            "width_mm": 40.040431562282855,
+            "created_at": "17:51:39"
+          }
+        ],
+        "repair_method": "灌缝胶修补",
+        "material_amount": 0.0,
+        "material_unit": "升",
+        "station": "未绑定",
+        "created_at": "2026-06-09 17:50:47"
+      }
+    ],
+    "regions": [],
+    "candidates": [],
+    "review_logs": [],
+    "created_at": "2026-06-09 17:49:27",
+    "updated_at": "2026-06-09 17:51:39"
+  },
+  {
+    "task_id": "任务-0a6a842f",
+    "road_name": "G320示范路段",
+    "image_path": "E:\\项目\\6.9\\路面裂缝标注软件\\assets\\samples\\realistic_sample_2.png",
+    "pavement_type": "沥青路面",
+    "station_start": "K12+000",
+    "station_end": "K12+100",
+    "lane": "上行二车道",
+    "location_name": "武汉市东西湖区示范路段",
+    "longitude": "114.305678",
+    "latitude": "30.572123",
+    "road_level": "城市主干路",
+    "direction": "北向南",
+    "section_note": "常规路面巡检影像",
+    "source_type": "普通路面影像",
+    "collector": "演示采集员",
+    "annotator": "当前用户",
+    "status": "待标注",
+    "meter_per_pixel": null,
+    "cracks": [],
+    "regions": [],
+    "candidates": [],
+    "review_logs": [],
+    "created_at": "2026-06-09 17:52:15",
+    "updated_at": "2026-06-09 17:52:15"
+  },
+  {
+    "task_id": "任务-c9b44b4d",
+    "road_name": "G320示范路段",
+    "image_path": "E:\\项目\\6.9\\路面裂缝标注软件\\assets\\samples\\realistic_sample_3.png",
+    "pavement_type": "沥青路面",
+    "station_start": "K12+000",
+    "station_end": "K12+100",
+    "lane": "上行二车道",
+    "location_name": "武汉市东西湖区示范路段",
+    "longitude": "114.305678",
+    "latitude": "30.572123",
+    "road_level": "城市主干路",
+    "direction": "北向南",
+    "section_note": "常规路面巡检影像",
+    "source_type": "普通路面影像",
+    "collector": "演示采集员",
+    "annotator": "当前用户",
+    "status": "待标注",
+    "meter_per_pixel": null,
+    "cracks": [],
+    "regions": [],
+    "candidates": [],
+    "review_logs": [],
+    "created_at": "2026-06-09 17:52:17",
+    "updated_at": "2026-06-09 17:52:17"
+  },
+  {
+    "task_id": "任务-e880de12",
+    "road_name": "G320示范路段",
+    "image_path": "E:\\项目\\6.9\\路面裂缝标注软件\\assets\\samples\\realistic_sample_4.png",
+    "pavement_type": "沥青路面",
+    "station_start": "K12+000",
+    "station_end": "K12+100",
+    "lane": "上行二车道",
+    "location_name": "武汉市东西湖区示范路段",
+    "longitude": "114.305678",
+    "latitude": "30.572123",
+    "road_level": "城市主干路",
+    "direction": "北向南",
+    "section_note": "常规路面巡检影像",
+    "source_type": "普通路面影像",
+    "collector": "演示采集员",
+    "annotator": "当前用户",
+    "status": "待标注",
+    "meter_per_pixel": null,
+    "cracks": [],
+    "regions": [],
+    "candidates": [],
+    "review_logs": [],
+    "created_at": "2026-06-09 17:52:18",
+    "updated_at": "2026-06-09 17:52:18"
+  },
+  {
+    "task_id": "任务-fe8b5c9a",
+    "road_name": "G320示范路段",
+    "image_path": "E:\\项目\\6.9\\路面裂缝标注软件\\assets\\samples\\sample_road_crack_1.png",
+    "pavement_type": "沥青路面",
+    "station_start": "K12+000",
+    "station_end": "K12+100",
+    "lane": "上行二车道",
+    "location_name": "武汉市东西湖区示范路段",
+    "longitude": "114.305678",
+    "latitude": "30.572123",
+    "road_level": "城市主干路",
+    "direction": "北向南",
+    "section_note": "常规路面巡检影像",
+    "source_type": "普通路面影像",
+    "collector": "演示采集员",
+    "annotator": "当前用户",
+    "status": "待标注",
+    "meter_per_pixel": null,
+    "cracks": [],
+    "regions": [],
+    "candidates": [],
+    "review_logs": [],
+    "created_at": "2026-06-09 17:52:18",
+    "updated_at": "2026-06-09 17:52:18"
+  },
+  {
+    "task_id": "任务-8f9d490b",
+    "road_name": "G320示范路段",
+    "image_path": "E:\\项目\\6.9\\路面裂缝标注软件\\assets\\samples\\sample_road_crack_2.png",
+    "pavement_type": "沥青路面",
+    "station_start": "K12+000",
+    "station_end": "K12+100",
+    "lane": "上行二车道",
+    "location_name": "武汉市东西湖区示范路段",
+    "longitude": "114.305678",
+    "latitude": "30.572123",
+    "road_level": "城市主干路",
+    "direction": "北向南",
+    "section_note": "常规路面巡检影像",
+    "source_type": "普通路面影像",
+    "collector": "演示采集员",
+    "annotator": "当前用户",
+    "status": "待标注",
+    "meter_per_pixel": null,
+    "cracks": [],
+    "regions": [],
+    "candidates": [],
+    "review_logs": [],
+    "created_at": "2026-06-09 17:52:19",
+    "updated_at": "2026-06-09 17:52:19"
+  },
+  {
+    "task_id": "任务-2b1fc69b",
+    "road_name": "G320示范路段",
+    "image_path": "E:\\项目\\6.9\\路面裂缝标注软件\\assets\\samples\\sample_road_crack_3.png",
+    "pavement_type": "沥青路面",
+    "station_start": "K12+000",
+    "station_end": "K12+100",
+    "lane": "上行二车道",
+    "location_name": "武汉市东西湖区示范路段",
+    "longitude": "114.305678",
+    "latitude": "30.572123",
+    "road_level": "城市主干路",
+    "direction": "北向南",
+    "section_note": "常规路面巡检影像",
+    "source_type": "普通路面影像",
+    "collector": "演示采集员",
+    "annotator": "当前用户",
+    "status": "待标注",
+    "meter_per_pixel": null,
+    "cracks": [],
+    "regions": [],
+    "candidates": [],
+    "review_logs": [],
+    "created_at": "2026-06-09 17:52:19",
+    "updated_at": "2026-06-09 17:52:19"
+  },
+  {
+    "task_id": "任务-5b89b27c",
+    "road_name": "G320示范路段",
+    "image_path": "E:\\项目\\6.9\\路面裂缝标注软件\\assets\\samples\\sample_road_crack_4.png",
+    "pavement_type": "沥青路面",
+    "station_start": "K12+000",
+    "station_end": "K12+100",
+    "lane": "上行二车道",
+    "location_name": "武汉市东西湖区示范路段",
+    "longitude": "114.305678",
+    "latitude": "30.572123",
+    "road_level": "城市主干路",
+    "direction": "北向南",
+    "section_note": "常规路面巡检影像",
+    "source_type": "普通路面影像",
+    "collector": "演示采集员",
+    "annotator": "当前用户",
+    "status": "待标注",
+    "meter_per_pixel": null,
+    "cracks": [],
+    "regions": [],
+    "candidates": [],
+    "review_logs": [],
+    "created_at": "2026-06-09 17:52:19",
+    "updated_at": "2026-06-09 17:52:19"
+  },
+  {
+    "task_id": "任务-2bd93116",
+    "road_name": "G320示范路段",
+    "image_path": "E:\\项目\\6.9\\路面裂缝标注软件\\assets\\samples\\large_realistic_road_crack_1.png",
+    "pavement_type": "沥青路面",
+    "station_start": "K12+000",
+    "station_end": "K12+100",
+    "lane": "上行二车道",
+    "location_name": "武汉市东西湖区示范路段",
+    "longitude": "114.305678",
+    "latitude": "30.572123",
+    "road_level": "城市主干路",
+    "direction": "北向南",
+    "section_note": "常规路面巡检影像",
+    "source_type": "普通路面影像",
+    "collector": "演示采集员",
+    "annotator": "当前用户",
+    "status": "待标注",
+    "meter_per_pixel": null,
+    "cracks": [],
+    "regions": [],
+    "candidates": [],
+    "review_logs": [],
+    "created_at": "2026-06-09 17:52:20",
+    "updated_at": "2026-06-09 17:52:20"
+  },
+  {
+    "task_id": "任务-0c87541f",
+    "road_name": "G320示范路段",
+    "image_path": "E:\\项目\\6.9\\路面裂缝标注软件\\assets\\samples\\large_realistic_road_crack_2.png",
+    "pavement_type": "沥青路面",
+    "station_start": "K12+000",
+    "station_end": "K12+100",
+    "lane": "上行二车道",
+    "location_name": "武汉市东西湖区示范路段",
+    "longitude": "114.305678",
+    "latitude": "30.572123",
+    "road_level": "城市主干路",
+    "direction": "北向南",
+    "section_note": "常规路面巡检影像",
+    "source_type": "普通路面影像",
+    "collector": "演示采集员",
+    "annotator": "当前用户",
+    "status": "待标注",
+    "meter_per_pixel": null,
+    "cracks": [],
+    "regions": [],
+    "candidates": [],
+    "review_logs": [],
+    "created_at": "2026-06-09 17:52:20",
+    "updated_at": "2026-06-09 17:52:20"
+  },
+  {
+    "task_id": "任务-c12e19ce",
+    "road_name": "G320示范路段",
+    "image_path": "E:\\项目\\6.9\\路面裂缝标注软件\\assets\\samples\\large_realistic_road_crack_3.png",
+    "pavement_type": "沥青路面",
+    "station_start": "K12+000",
+    "station_end": "K12+100",
+    "lane": "上行二车道",
+    "location_name": "武汉市东西湖区示范路段",
+    "longitude": "114.305678",
+    "latitude": "30.572123",
+    "road_level": "城市主干路",
+    "direction": "北向南",
+    "section_note": "常规路面巡检影像",
+    "source_type": "普通路面影像",
+    "collector": "演示采集员",
+    "annotator": "当前用户",
+    "status": "自动识别后待复核（增强）",
+    "meter_per_pixel": null,
+    "cracks": [
+      {
+        "crack_id": "裂缝-ede6b27f",
+        "points": [
+          [
+            1347.0,
+            414.0
+          ],
+          [
+            1257.0,
+            447.0
+          ],
+          [
+            1113.0,
+            472.5
+          ],
+          [
+            1017.0,
+            504.0
+          ],
+          [
+            912.0,
+            561.0
+          ],
+          [
+            825.0,
+            603.0
+          ],
+          [
+            672.0,
+            612.0
+          ]
+        ],
+        "crack_type": "横向裂缝",
+        "suggestion_type": "横向裂缝",
+        "severity": "较重",
+        "review_status": "待复核",
+        "review_comment": "",
+        "locked": false,
+        "ignored": false,
+        "source": "自动识别",
+        "width_samples": [
+          {
+            "p1": [
+              972.0,
+              546.0
+            ],
+            "p2": [
+              962.0,
+              527.0
+            ],
+            "width_mm": 21.470910553583888,
+            "created_at": "17:55:20"
+          },
+          {
+            "p1": [
+              875.0,
+              596.0
+            ],
+            "p2": [
+              858.0,
+              560.0
+            ],
+            "width_mm": 39.81205847478876,
+            "created_at": "17:55:20"
+          },
+          {
+            "p1": [
+              875.0,
+              596.0
+            ],
+            "p2": [
+              858.0,
+              560.0
+            ],
+            "width_mm": 39.81205847478876,
+            "created_at": "17:55:20"
+          }
+        ],
+        "repair_method": "灌缝胶修补",
+        "material_amount": 0.0,
+        "material_unit": "升",
+        "station": "未绑定",
+        "created_at": "2026-06-09 17:55:20"
+      },
+      {
+        "crack_id": "裂缝-6eb1a860",
+        "points": [
+          [
+            984.0,
+            825.0
+          ],
+          [
+            891.0,
+            813.0
+          ],
+          [
+            792.0,
+            825.0
+          ],
+          [
+            687.0,
+            846.0
+          ],
+          [
+            600.0,
+            861.0
+          ],
+          [
+            504.0,
+            801.0
+          ],
+          [
+            388.5,
+            825.0
+          ]
+        ],
+        "crack_type": "横向裂缝",
+        "suggestion_type": "横向裂缝",
+        "severity": "较重",
+        "review_status": "待复核",
+        "review_comment": "",
+        "locked": false,
+        "ignored": false,
+        "source": "自动识别",
+        "width_samples": [
+          {
+            "p1": [
+              644.0,
+              854.0
+            ],
+            "p2": [
+              643.0,
+              852.0
+            ],
+            "width_mm": 2.23606797749979,
+            "created_at": "17:55:20"
+          },
+          {
+            "p1": [
+              740.0,
+              839.0
+            ],
+            "p2": [
+              739.0,
+              832.0
+            ],
+            "width_mm": 7.0710678118654755,
+            "created_at": "17:55:20"
+          },
+          {
+            "p1": [
+              845.0,
+              848.0
+            ],
+            "p2": [
+              840.0,
+              809.0
+            ],
+            "width_mm": 39.319206502675,
+            "created_at": "17:55:20"
+          }
+        ],
+        "repair_method": "灌缝胶修补",
+        "material_amount": 0.0,
+        "material_unit": "升",
+        "station": "未绑定",
+        "created_at": "2026-06-09 17:55:20"
+      },
+      {
+        "crack_id": "裂缝-fd8171de",
+        "points": [
+          [
+            1590.0,
+            585.0
+          ],
+          [
+            1506.0,
+            579.0
+          ],
+          [
+            1440.0,
+            570.0
+          ],
+          [
+            1371.0,
+            618.0
+          ],
+          [
+            1293.0,
+            612.0
+          ],
+          [
+            1218.0,
+            612.0
+          ],
+          [
+            1128.0,
+            609.0
+          ]
+        ],
+        "crack_type": "横向裂缝",
+        "suggestion_type": "横向裂缝",
+        "severity": "较重",
+        "review_status": "待复核",
+        "review_comment": "",
+        "locked": false,
+        "ignored": false,
+        "source": "自动识别",
+        "width_samples": [
+          {
+            "p1": [
+              1407.0,
+              596.0
+            ],
+            "p2": [
+              1399.0,
+              584.0
+            ],
+            "width_mm": 14.422205101855956,
+            "created_at": "17:55:20"
+          },
+          {
+            "p1": [
+              1407.0,
+              596.0
+            ],
+            "p2": [
+              1399.0,
+              584.0
+            ],
+            "width_mm": 14.422205101855956,
+            "created_at": "17:55:20"
+          },
+          {
+            "p1": [
+              1256.0,
+              631.0
+            ],
+            "p2": [
+              1256.0,
+              602.0
+            ],
+            "width_mm": 29.0,
+            "created_at": "17:55:20"
+          }
+        ],
+        "repair_method": "灌缝胶修补",
+        "material_amount": 0.0,
+        "material_unit": "升",
+        "station": "未绑定",
+        "created_at": "2026-06-09 17:55:20"
+      },
+      {
+        "crack_id": "裂缝-5baba2cb",
+        "points": [
+          [
+            591.0,
+            951.0
+          ],
+          [
+            564.0,
+            1035.0
+          ],
+          [
+            498.0,
+            1059.0
+          ],
+          [
+            468.0,
+            1125.0
+          ],
+          [
+            390.0,
+            1140.0
+          ],
+          [
+            360.0,
+            1209.0
+          ],
+          [
+            303.0,
+            1254.0
+          ]
+        ],
+        "crack_type": "斜向裂缝",
+        "suggestion_type": "斜向裂缝",
+        "severity": "较重",
+        "review_status": "待复核",
+        "review_comment": "",
+        "locked": false,
+        "ignored": false,
+        "source": "自动识别",
+        "width_samples": [
+          {
+            "p1": [
+              430.0,
+              1138.0
+            ],
+            "p2": [
+              428.0,
+              1126.0
+            ],
+            "width_mm": 12.165525060596439,
+            "created_at": "17:55:20"
+          },
+          {
+            "p1": [
+              499.0,
+              1099.0
+            ],
+            "p2": [
+              481.0,
+              1091.0
+            ],
+            "width_mm": 19.697715603592208,
+            "created_at": "17:55:20"
+          },
+          {
+            "p1": [
+              537.0,
+              1065.0
+            ],
+            "p2": [
+              525.0,
+              1029.0
+            ],
+            "width_mm": 37.94733192202055,
+            "created_at": "17:55:20"
+          }
+        ],
+        "repair_method": "灌缝胶修补",
+        "material_amount": 0.0,
+        "material_unit": "升",
+        "station": "未绑定",
+        "created_at": "2026-06-09 17:55:20"
+      },
+      {
+        "crack_id": "裂缝-7836c76a",
+        "points": [
+          [
+            1728.0,
+            957.0
+          ],
+          [
+            1659.0,
+            939.0
+          ],
+          [
+            1593.0,
+            933.0
+          ],
+          [
+            1533.0,
+            987.0
+          ],
+          [
+            1470.0,
+            948.0
+          ],
+          [
+            1413.0,
+            1014.0
+          ],
+          [
+            1350.0,
+            978.0
+          ]
+        ],
+        "crack_type": "横向裂缝",
+        "suggestion_type": "横向裂缝",
+        "severity": "较重",
+        "review_status": "待复核",
+        "review_comment": "",
+        "locked": false,
+        "ignored": false,
+        "source": "自动识别",
+        "width_samples": [
+          {
+            "p1": [
+              1499.0,
+              972.0
+            ],
+            "p2": [
+              1504.0,
+              964.0
+            ],
+            "width_mm": 9.433981132056603,
+            "created_at": "17:55:20"
+          },
+          {
+            "p1": [
+              1572.0,
+              970.0
+            ],
+            "p2": [
+              1546.0,
+              941.0
+            ],
+            "width_mm": 38.948684188300895,
+            "created_at": "17:55:20"
+          },
+          {
+            "p1": [
+              1572.0,
+              970.0
+            ],
+            "p2": [
+              1546.0,
+              941.0
+            ],
+            "width_mm": 38.948684188300895,
+            "created_at": "17:55:20"
+          }
+        ],
+        "repair_method": "灌缝胶修补",
+        "material_amount": 0.0,
+        "material_unit": "升",
+        "station": "未绑定",
+        "created_at": "2026-06-09 17:55:20"
+      },
+      {
+        "crack_id": "裂缝-15e23275",
+        "points": [
+          [
+            1464.0,
+            1467.0
+          ],
+          [
+            1401.0,
+            1452.0
+          ],
+          [
+            1353.0,
+            1404.0
+          ],
+          [
+            1299.0,
+            1350.0
+          ],
+          [
+            1236.0,
+            1332.0
+          ],
+          [
+            1152.0,
+            1332.0
+          ],
+          [
+            1071.0,
+            1329.0
+          ]
+        ],
+        "crack_type": "横向裂缝",
+        "suggestion_type": "横向裂缝",
+        "severity": "较重",
+        "review_status": "待复核",
+        "review_comment": "",
+        "locked": false,
+        "ignored": false,
+        "source": "自动识别",
+        "width_samples": [
+          {
+            "p1": [
+              1263.0,
+              1355.0
+            ],
+            "p2": [
+              1268.0,
+              1339.0
+            ],
+            "width_mm": 16.76305461424021,
+            "created_at": "17:55:20"
+          },
+          {
+            "p1": [
+              1263.0,
+              1355.0
+            ],
+            "p2": [
+              1268.0,
+              1339.0
+            ],
+            "width_mm": 16.76305461424021,
+            "created_at": "17:55:20"
+          },
+          {
+            "p1": [
+              1367.0,
+              1438.0
+            ],
+            "p2": [
+              1390.0,
+              1415.0
+            ],
+            "width_mm": 32.526911934581186,
+            "created_at": "17:55:20"
+          }
+        ],
+        "repair_method": "灌缝胶修补",
+        "material_amount": 0.0,
+        "material_unit": "升",
+        "station": "未绑定",
+        "created_at": "2026-06-09 17:55:20"
+      },
+      {
+        "crack_id": "裂缝-56232ca5",
+        "points": [
+          [
+            384.0,
+            891.0
+          ],
+          [
+            363.0,
+            939.0
+          ],
+          [
+            331.5,
+            1005.0
+          ],
+          [
+            291.0,
+            1068.0
+          ],
+          [
+            213.0,
+            1047.0
+          ],
+          [
+            156.0,
+            1041.0
+          ],
+          [
+            99.0,
+            1056.0
+          ]
+        ],
+        "crack_type": "斜向裂缝",
+        "suggestion_type": "斜向裂缝",
+        "severity": "较重",
+        "review_status": "待复核",
+        "review_comment": "",
+        "locked": false,
+        "ignored": false,
+        "source": "自动识别",
+        "width_samples": [
+          {
+            "p1": [
+              374.0,
+              915.0
+            ],
+            "p2": [
+              371.0,
+              914.0
+            ],
+            "width_mm": 3.1622776601683795,
+            "created_at": "17:55:20"
+          },
+          {
+            "p1": [
+              329.0,
+              1048.0
+            ],
+            "p2": [
+              310.0,
+              1036.0
+            ],
+            "width_mm": 22.47220505424423,
+            "created_at": "17:55:20"
+          },
+          {
+            "p1": [
+              250.0,
+              1065.0
+            ],
+            "p2": [
+              256.0,
+              1043.0
+            ],
+            "width_mm": 22.80350850198276,
+            "created_at": "17:55:20"
+          }
+        ],
+        "repair_method": "灌缝胶修补",
+        "material_amount": 0.0,
+        "material_unit": "升",
+        "station": "未绑定",
+        "created_at": "2026-06-09 17:55:20"
+      },
+      {
+        "crack_id": "裂缝-feca2909",
+        "points": [
+          [
+            1422.0,
+            693.0
+          ],
+          [
+            1365.0,
+            714.0
+          ],
+          [
+            1302.0,
+            726.0
+          ],
+          [
+            1234.5,
+            723.0
+          ],
+          [
+            1185.0,
+            760.5
+          ],
+          [
+            1140.0,
+            840.0
+          ],
+          [
+            1074.0,
+            814.5
+          ]
+        ],
+        "crack_type": "横向裂缝",
+        "suggestion_type": "横向裂缝",
+        "severity": "较重",
+        "review_status": "待复核",
+        "review_comment": "",
+        "locked": false,
+        "ignored": false,
+        "source": "自动识别",
+        "width_samples": [
+          {
+            "p1": [
+              1221.0,
+              757.0
+            ],
+            "p2": [
+              1206.0,
+              736.0
+            ],
+            "width_mm": 25.80697580112788,
+            "created_at": "17:55:20"
+          },
+          {
+            "p1": [
+              1221.0,
+              757.0
+            ],
+            "p2": [
+              1206.0,
+              736.0
+            ],
+            "width_mm": 25.80697580112788,
+            "created_at": "17:55:20"
+          },
+          {
+            "p1": [
+              1175.0,
+              807.0
+            ],
+            "p2": [
+              1142.0,
+              789.0
+            ],
+            "width_mm": 37.589892258425,
+            "created_at": "17:55:20"
+          }
+        ],
+        "repair_method": "灌缝胶修补",
+        "material_amount": 0.0,
+        "material_unit": "升",
+        "station": "未绑定",
+        "created_at": "2026-06-09 17:55:20"
+      },
+      {
+        "crack_id": "裂缝-61afa68e",
+        "points": [
+          [
+            1035.0,
+            894.0
+          ],
+          [
+            960.0,
+            936.0
+          ],
+          [
+            966.0,
+            969.0
+          ],
+          [
+            975.0,
+            1018.5
+          ],
+          [
+            999.0,
+            1050.0
+          ],
+          [
+            990.0,
+            1101.0
+          ],
+          [
+            1011.0,
+            1149.0
+          ]
+        ],
+        "crack_type": "纵向裂缝",
+        "suggestion_type": "纵向裂缝",
+        "severity": "较重",
+        "review_status": "待复核",
+        "review_comment": "",
+        "locked": false,
+        "ignored": false,
+        "source": "自动识别",
+        "width_samples": [
+          {
+            "p1": [
+              972.0,
+              951.0
+            ],
+            "p2": [
+              951.0,
+              955.0
+            ],
+            "width_mm": 21.37755832643195,
+            "created_at": "17:55:20"
+          },
+          {
+            "p1": [
+              999.0,
+              989.0
+            ],
+            "p2": [
+              949.0,
+              998.0
+            ],
+            "width_mm": 50.80354318352215,
+            "created_at": "17:55:20"
+          },
+          {
+            "p1": [
+              999.0,
+              989.0
+            ],
+            "p2": [
+              949.0,
+              998.0
+            ],
+            "width_mm": 50.80354318352215,
+            "created_at": "17:55:20"
+          }
+        ],
+        "repair_method": "灌缝胶修补",
+        "material_amount": 0.0,
+        "material_unit": "升",
+        "station": "未绑定",
+        "created_at": "2026-06-09 17:55:20"
+      },
+      {
+        "crack_id": "裂缝-00c368c9",
+        "points": [
+          [
+            1369.5,
+            1119.0
+          ],
+          [
+            1335.0,
+            1110.0
+          ],
+          [
+            1284.0,
+            1098.0
+          ],
+          [
+            1227.0,
+            1086.0
+          ],
+          [
+            1197.0,
+            1053.0
+          ],
+          [
+            1152.0,
+            1035.0
+          ],
+          [
+            1104.0,
+            1047.0
+          ]
+        ],
+        "crack_type": "横向裂缝",
+        "suggestion_type": "横向裂缝",
+        "severity": "较重",
+        "review_status": "待复核",
+        "review_comment": "",
+        "locked": false,
+        "ignored": false,
+        "source": "自动识别",
+        "width_samples": [
+          {
+            "p1": [
+              1351.0,
+              1118.0
+            ],
+            "p2": [
+              1353.0,
+              1111.0
+            ],
+            "width_mm": 7.280109889280518,
+            "created_at": "17:55:20"
+          },
+          {
+            "p1": [
+              1252.0,
+              1111.0
+            ],
+            "p2": [
+              1259.0,
+              1076.0
+            ],
+            "width_mm": 35.6931365951495,
+            "created_at": "17:55:20"
+          },
+          {
+            "p1": [
+              1252.0,
+              1111.0
+            ],
+            "p2": [
+              1259.0,
+              1076.0
+            ],
+            "width_mm": 35.6931365951495,
+            "created_at": "17:55:20"
+          }
+        ],
+        "repair_method": "灌缝胶修补",
+        "material_amount": 0.0,
+        "material_unit": "升",
+        "station": "未绑定",
+        "created_at": "2026-06-09 17:55:20"
+      },
+      {
+        "crack_id": "裂缝-99ae0dae",
+        "points": [
+          [
+            489.0,
+            1200.0
+          ],
+          [
+            528.0,
+            1228.5
+          ],
+          [
+            525.0,
+            1287.0
+          ],
+          [
+            564.0,
+            1311.0
+          ],
+          [
+            600.0,
+            1329.0
+          ],
+          [
+            630.0,
+            1360.5
+          ],
+          [
+            660.0,
+            1389.0
+          ]
+        ],
+        "crack_type": "斜向裂缝",
+        "suggestion_type": "斜向裂缝",
+        "severity": "较重",
+        "review_status": "待复核",
+        "review_comment": "",
+        "locked": false,
+        "ignored": false,
+        "source": "自动识别",
+        "width_samples": [
+          {
+            "p1": [
+              583.0,
+              1318.0
+            ],
+            "p2": [
+              578.0,
+              1328.0
+            ],
+            "width_mm": 11.180339887498949,
+            "created_at": "17:55:20"
+          },
+          {
+            "p1": [
+              583.0,
+              1318.0
+            ],
+            "p2": [
+              578.0,
+              1328.0
+            ],
+            "width_mm": 11.180339887498949,
+            "created_at": "17:55:20"
+          },
+          {
+            "p1": [
+              625.0,
+              1335.0
+            ],
+            "p2": [
+              597.0,
+              1362.0
+            ],
+            "width_mm": 38.897300677553446,
+            "created_at": "17:55:20"
+          }
+        ],
+        "repair_method": "灌缝胶修补",
+        "material_amount": 0.0,
+        "material_unit": "升",
+        "station": "未绑定",
+        "created_at": "2026-06-09 17:55:20"
+      },
+      {
+        "crack_id": "裂缝-3c7fe8fb",
+        "points": [
+          [
+            1566.0,
+            876.0
+          ],
+          [
+            1543.5,
+            837.0
+          ],
+          [
+            1512.0,
+            828.0
+          ],
+          [
+            1476.0,
+            801.0
+          ],
+          [
+            1449.0,
+            780.0
+          ],
+          [
+            1401.0,
+            786.0
+          ],
+          [
+            1350.0,
+            789.0
+          ]
+        ],
+        "crack_type": "横向裂缝",
+        "suggestion_type": "横向裂缝",
+        "severity": "较重",
+        "review_status": "待复核",
+        "review_comment": "",
+        "locked": false,
+        "ignored": false,
+        "source": "自动识别",
+        "width_samples": [
+          {
+            "p1": [
+              1425.0,
+              784.0
+            ],
+            "p2": [
+              1425.0,
+              781.0
+            ],
+            "width_mm": 3.0,
+            "created_at": "17:55:20"
+          },
+          {
+            "p1": [
+              1459.0,
+              794.0
+            ],
+            "p2": [
+              1472.0,
+              778.0
+            ],
+            "width_mm": 20.615528128088304,
+            "created_at": "17:55:20"
+          },
+          {
+            "p1": [
+              1477.0,
+              838.0
+            ],
+            "p2": [
+              1499.0,
+              808.0
+            ],
+            "width_mm": 37.20215047547655,
+            "created_at": "17:55:20"
+          }
+        ],
+        "repair_method": "灌缝胶修补",
+        "material_amount": 0.0,
+        "material_unit": "升",
+        "station": "未绑定",
+        "created_at": "2026-06-09 17:55:20"
+      }
+    ],
+    "regions": [],
+    "candidates": [],
+    "review_logs": [],
+    "created_at": "2026-06-09 17:52:21",
+    "updated_at": "2026-06-09 17:55:22"
+  },
+  {
+    "task_id": "任务-2bdf2994",
+    "road_name": "G320示范路段",
+    "image_path": "E:\\项目\\6.9\\路面裂缝标注软件\\assets\\samples\\large_realistic_road_crack_4.png",
+    "pavement_type": "沥青路面",
+    "station_start": "K12+000",
+    "station_end": "K12+100",
+    "lane": "上行二车道",
+    "location_name": "武汉市东西湖区示范路段",
+    "longitude": "114.305678",
+    "latitude": "30.572123",
+    "road_level": "城市主干路",
+    "direction": "北向南",
+    "section_note": "常规路面巡检影像",
+    "source_type": "普通路面影像",
+    "collector": "演示采集员",
+    "annotator": "当前用户",
+    "status": "自动识别后待复核（增强）",
+    "meter_per_pixel": null,
+    "cracks": [],
+    "regions": [],
+    "candidates": [],
+    "review_logs": [],
+    "created_at": "2026-06-09 17:55:29",
+    "updated_at": "2026-06-09 17:56:38"
+  },
+  {
+    "task_id": "任务-8c2ad716",
+    "road_name": "G320示范街景路段",
+    "image_path": "E:\\项目\\6.9\\路面裂缝标注软件\\assets\\streetview\\real_street_crack_view_1.png",
+    "pavement_type": "街景路面",
+    "station_start": "K12+300",
+    "station_end": "K12+300",
+    "lane": "街景采集车道",
+    "location_name": "武汉市东西湖区示范道路",
+    "longitude": "114.305678",
+    "latitude": "30.572123",
+    "road_level": "城市主干路",
+    "direction": "下行",
+    "section_note": "街景模拟帧，用于路面裂缝快速预标注",
+    "source_type": "街景路面影像",
+    "collector": "演示采集员",
+    "annotator": "当前用户",
+    "status": "街景待标注",
+    "meter_per_pixel": null,
+    "cracks": [],
+    "regions": [],
+    "candidates": [],
+    "review_logs": [],
+    "created_at": "2026-06-09 17:57:13",
+    "updated_at": "2026-06-09 17:57:13"
+  },
+  {
+    "task_id": "任务-9d565988",
+    "road_name": "G320示范街景路段",
+    "image_path": "E:\\项目\\6.9\\路面裂缝标注软件\\assets\\streetview\\real_street_crack_view_1.png",
+    "pavement_type": "街景路面",
+    "station_start": "K12+300",
+    "station_end": "K12+300",
+    "lane": "街景采集车道",
+    "location_name": "武汉市东西湖区示范道路",
+    "longitude": "114.305678",
+    "latitude": "30.572123",
+    "road_level": "城市主干路",
+    "direction": "下行",
+    "section_note": "街景模拟帧，用于路面裂缝快速预标注",
+    "source_type": "街景路面影像",
+    "collector": "演示采集员",
+    "annotator": "当前用户",
+    "status": "街景待标注",
+    "meter_per_pixel": null,
+    "cracks": [],
+    "regions": [],
+    "candidates": [],
+    "review_logs": [],
+    "created_at": "2026-06-09 17:57:14",
+    "updated_at": "2026-06-09 17:57:14"
+  },
+  {
+    "task_id": "任务-379bbe26",
+    "road_name": "G320示范街景路段",
+    "image_path": "E:\\项目\\6.9\\路面裂缝标注软件\\assets\\streetview\\real_street_crack_view_1.png",
+    "pavement_type": "街景路面",
+    "station_start": "K12+300",
+    "station_end": "K12+300",
+    "lane": "街景采集车道",
+    "location_name": "武汉市东西湖区示范道路",
+    "longitude": "114.305678",
+    "latitude": "30.572123",
+    "road_level": "城市主干路",
+    "direction": "下行",
+    "section_note": "街景模拟帧，用于路面裂缝快速预标注",
+    "source_type": "街景路面影像",
+    "collector": "演示采集员",
+    "annotator": "当前用户",
+    "status": "街景待标注",
+    "meter_per_pixel": null,
+    "cracks": [],
+    "regions": [],
+    "candidates": [],
+    "review_logs": [],
+    "created_at": "2026-06-09 17:57:15",
+    "updated_at": "2026-06-09 17:57:15"
+  },
+  {
+    "task_id": "任务-f0034d2e",
+    "road_name": "G320示范街景路段",
+    "image_path": "E:\\项目\\6.9\\路面裂缝标注软件\\assets\\streetview\\real_street_crack_view_1.png",
+    "pavement_type": "街景路面",
+    "station_start": "K12+300",
+    "station_end": "K12+300",
+    "lane": "街景采集车道",
+    "location_name": "武汉市东西湖区示范道路",
+    "longitude": "114.305678",
+    "latitude": "30.572123",
+    "road_level": "城市主干路",
+    "direction": "下行",
+    "section_note": "街景模拟帧，用于路面裂缝快速预标注",
+    "source_type": "街景路面影像",
+    "collector": "演示采集员",
+    "annotator": "当前用户",
+    "status": "街景待标注",
+    "meter_per_pixel": null,
+    "cracks": [],
+    "regions": [],
+    "candidates": [],
+    "review_logs": [],
+    "created_at": "2026-06-09 17:57:16",
+    "updated_at": "2026-06-09 17:57:16"
+  },
+  {
+    "task_id": "任务-6d76f506",
+    "road_name": "G320示范街景路段",
+    "image_path": "E:\\项目\\6.9\\路面裂缝标注软件\\assets\\streetview\\real_street_crack_view_1.png",
+    "pavement_type": "街景路面",
+    "station_start": "K12+300",
+    "station_end": "K12+300",
+    "lane": "街景采集车道",
+    "location_name": "武汉市东西湖区示范道路",
+    "longitude": "114.305678",
+    "latitude": "30.572123",
+    "road_level": "城市主干路",
+    "direction": "下行",
+    "section_note": "街景模拟帧，用于路面裂缝快速预标注",
+    "source_type": "街景路面影像",
+    "collector": "演示采集员",
+    "annotator": "当前用户",
+    "status": "街景待标注",
+    "meter_per_pixel": null,
+    "cracks": [],
+    "regions": [],
+    "candidates": [],
+    "review_logs": [],
+    "created_at": "2026-06-09 17:57:16",
+    "updated_at": "2026-06-09 17:57:16"
+  },
+  {
+    "task_id": "任务-92546e22",
+    "road_name": "G320示范街景路段",
+    "image_path": "E:\\项目\\6.9\\路面裂缝标注软件\\assets\\streetview\\real_street_crack_view_1.png",
+    "pavement_type": "街景路面",
+    "station_start": "K12+300",
+    "station_end": "K12+300",
+    "lane": "街景采集车道",
+    "location_name": "武汉市东西湖区示范道路",
+    "longitude": "114.305678",
+    "latitude": "30.572123",
+    "road_level": "城市主干路",
+    "direction": "下行",
+    "section_note": "街景模拟帧，用于路面裂缝快速预标注",
+    "source_type": "街景路面影像",
+    "collector": "演示采集员",
+    "annotator": "当前用户",
+    "status": "街景待标注",
+    "meter_per_pixel": null,
+    "cracks": [],
+    "regions": [],
+    "candidates": [],
+    "review_logs": [],
+    "created_at": "2026-06-09 17:57:16",
+    "updated_at": "2026-06-09 17:57:16"
+  },
+  {
+    "task_id": "任务-141ac06b",
+    "road_name": "G320示范街景路段",
+    "image_path": "E:\\项目\\6.9\\路面裂缝标注软件\\assets\\streetview\\street_view_crack_frame_3.png",
+    "pavement_type": "街景路面",
+    "station_start": "K12+550",
+    "station_end": "K12+550",
+    "lane": "街景采集车道",
+    "location_name": "武汉市东西湖区示范道路",
+    "longitude": "114.305678",
+    "latitude": "30.572123",
+    "road_level": "城市主干路",
+    "direction": "下行",
+    "section_note": "街景模拟帧，用于路面裂缝快速预标注",
+    "source_type": "街景路面影像",
+    "collector": "演示采集员",
+    "annotator": "当前用户",
+    "status": "街景待标注",
+    "meter_per_pixel": null,
+    "cracks": [],
+    "regions": [],
+    "candidates": [],
+    "review_logs": [],
+    "created_at": "2026-06-09 17:57:17",
+    "updated_at": "2026-06-09 17:57:17"
+  },
+  {
+    "task_id": "任务-e756fd91",
+    "road_name": "G320示范街景路段",
+    "image_path": "E:\\项目\\6.9\\路面裂缝标注软件\\assets\\streetview\\real_street_crack_view_1.png",
+    "pavement_type": "街景路面",
+    "station_start": "K12+300",
+    "station_end": "K12+300",
+    "lane": "街景采集车道",
+    "location_name": "武汉市东西湖区示范道路",
+    "longitude": "114.305678",
+    "latitude": "30.572123",
+    "road_level": "城市主干路",
+    "direction": "下行",
+    "section_note": "街景模拟帧，用于路面裂缝快速预标注",
+    "source_type": "街景路面影像",
+    "collector": "演示采集员",
+    "annotator": "当前用户",
+    "status": "街景待标注",
+    "meter_per_pixel": null,
+    "cracks": [],
+    "regions": [],
+    "candidates": [],
+    "review_logs": [],
+    "created_at": "2026-06-09 17:57:18",
+    "updated_at": "2026-06-09 17:57:18"
+  },
+  {
+    "task_id": "任务-8dd276da",
+    "road_name": "G320示范街景路段",
+    "image_path": "E:\\项目\\6.9\\路面裂缝标注软件\\assets\\streetview\\real_street_crack_view_2.png",
+    "pavement_type": "街景路面",
+    "station_start": "K12+350",
+    "station_end": "K12+350",
+    "lane": "街景采集车道",
+    "location_name": "武汉市东西湖区示范道路",
+    "longitude": "114.305678",
+    "latitude": "30.572123",
+    "road_level": "城市主干路",
+    "direction": "下行",
+    "section_note": "街景模拟帧，用于路面裂缝快速预标注",
+    "source_type": "街景路面影像",
+    "collector": "演示采集员",
+    "annotator": "当前用户",
+    "status": "自动识别后待复核（增强）",
+    "meter_per_pixel": null,
+    "cracks": [
+      {
+        "crack_id": "裂缝-fabaef02",
+        "points": [
+          [
+            392.0,
+            596.0
+          ],
+          [
+            304.0,
+            622.0
+          ],
+          [
+            250.0,
+            680.0
+          ],
+          [
+            212.0,
+            764.0
+          ],
+          [
+            148.0,
+            800.0
+          ],
+          [
+            80.0,
+            832.0
+          ],
+          [
+            49.0,
+            926.0
+          ]
+        ],
+        "crack_type": "斜向裂缝",
+        "suggestion_type": "斜向裂缝",
+        "severity": "较重",
+        "review_status": "待复核",
+        "review_comment": "",
+        "locked": false,
+        "ignored": false,
+        "source": "自动识别",
+        "width_samples": [
+          {
+            "p1": [
+              236.0,
+              724.0
+            ],
+            "p2": [
+              226.0,
+              720.0
+            ],
+            "width_mm": 10.770329614269007,
+            "created_at": "17:57:23"
+          },
+          {
+            "p1": [
+              184.0,
+              790.0
+            ],
+            "p2": [
+              178.0,
+              779.0
+            ],
+            "width_mm": 12.529964086141668,
+            "created_at": "17:57:23"
+          },
+          {
+            "p1": [
+              351.0,
+              621.0
+            ],
+            "p2": [
+              344.0,
+              595.0
+            ],
+            "width_mm": 26.92582403567252,
+            "created_at": "17:57:23"
+          }
+        ],
+        "repair_method": "开槽灌缝",
+        "material_amount": 1.862274142023851,
+        "material_unit": "升",
+        "station": "未绑定",
+        "created_at": "2026-06-09 17:57:23"
+      },
+      {
+        "crack_id": "裂缝-6a390149",
+        "points": [
+          [
+            1000.0,
+            494.0
+          ],
+          [
+            1018.0,
+            567.0
+          ],
+          [
+            1036.0,
+            650.0
+          ],
+          [
+            1048.0,
+            746.0
+          ],
+          [
+            1070.0,
+            806.0
+          ],
+          [
+            1088.0,
+            896.0
+          ],
+          [
+            1112.0,
+            964.0
+          ]
+        ],
+        "crack_type": "纵向裂缝",
+        "suggestion_type": "纵向裂缝",
+        "severity": "较重",
+        "review_status": "待复核",
+        "review_comment": "",
+        "locked": false,
+        "ignored": false,
+        "source": "自动识别",
+        "width_samples": [
+          {
+            "p1": [
+              1065.0,
+              774.0
+            ],
+            "p2": [
+              1045.0,
+              781.0
+            ],
+            "width_mm": 21.18962010041709,
+            "created_at": "17:57:23"
+          },
+          {
+            "p1": [
+              1065.0,
+              774.0
+            ],
+            "p2": [
+              1045.0,
+              781.0
+            ],
+            "width_mm": 21.18962010041709,
+            "created_at": "17:57:23"
+          },
+          {
+            "p1": [
+              1087.0,
+              849.0
+            ],
+            "p2": [
+              1051.0,
+              857.0
+            ],
+            "width_mm": 36.87817782917155,
+            "created_at": "17:57:23"
+          }
+        ],
+        "repair_method": "开槽灌缝",
+        "material_amount": 2.788506217774502,
+        "material_unit": "升",
+        "station": "未绑定",
+        "created_at": "2026-06-09 17:57:23"
+      },
+      {
+        "crack_id": "裂缝-3fcab777",
+        "points": [
+          [
+            954.0,
+            320.0
+          ],
+          [
+            962.0,
+            350.0
+          ],
+          [
+            968.0,
+            378.0
+          ],
+          [
+            976.0,
+            410.0
+          ],
+          [
+            984.0,
+            438.0
+          ]
+        ],
+        "crack_type": "纵向裂缝",
+        "suggestion_type": "纵向裂缝",
+        "severity": "较重",
+        "review_status": "待复核",
+        "review_comment": "",
+        "locked": false,
+        "ignored": false,
+        "source": "自动识别",
+        "width_samples": [
+          {
+            "p1": [
+              973.0,
+              394.0
+            ],
+            "p2": [
+              950.0,
+              400.0
+            ],
+            "width_mm": 23.769728648009426,
+            "created_at": "17:57:23"
+          },
+          {
+            "p1": [
+              973.0,
+              394.0
+            ],
+            "p2": [
+              950.0,
+              400.0
+            ],
+            "width_mm": 23.769728648009426,
+            "created_at": "17:57:23"
+          },
+          {
+            "p1": [
+              960.0,
+              334.0
+            ],
+            "p2": [
+              933.0,
+              342.0
+            ],
+            "width_mm": 28.160255680657446,
+            "created_at": "17:57:23"
+          }
+        ],
+        "repair_method": "开槽灌缝",
+        "material_amount": 0.6692611094903413,
+        "material_unit": "升",
+        "station": "未绑定",
+        "created_at": "2026-06-09 17:57:23"
+      },
+      {
+        "crack_id": "裂缝-456d1702",
+        "points": [
+          [
+            528.0,
+            884.0
+          ],
+          [
+            526.0,
+            914.0
+          ],
+          [
+            532.0,
+            936.0
+          ],
+          [
+            525.0,
+            965.0
+          ],
+          [
+            522.0,
+            992.0
+          ]
+        ],
+        "crack_type": "纵向裂缝",
+        "suggestion_type": "纵向裂缝",
+        "severity": "较重",
+        "review_status": "待复核",
+        "review_comment": "",
+        "locked": false,
+        "ignored": false,
+        "source": "自动识别",
+        "width_samples": [
+          {
+            "p1": [
+              537.0,
+              923.0
+            ],
+            "p2": [
+              525.0,
+              926.0
+            ],
+            "width_mm": 12.36931687685298,
+            "created_at": "17:57:23"
+          },
+          {
+            "p1": [
+              537.0,
+              923.0
+            ],
+            "p2": [
+              525.0,
+              926.0
+            ],
+            "width_mm": 12.36931687685298,
+            "created_at": "17:57:23"
+          },
+          {
+            "p1": [
+              528.0,
+              979.0
+            ],
+            "p2": [
+              502.0,
+              976.0
+            ],
+            "width_mm": 26.1725046566048,
+            "created_at": "17:57:23"
+          }
+        ],
+        "repair_method": "开槽灌缝",
+        "material_amount": 0.4060511820762988,
+        "material_unit": "升",
+        "station": "未绑定",
+        "created_at": "2026-06-09 17:57:23"
+      },
+      {
+        "crack_id": "裂缝-83cb6094",
+        "points": [
+          [
+            346.0,
+            538.0
+          ],
+          [
+            328.0,
+            558.0
+          ],
+          [
+            320.0,
+            583.0
+          ],
+          [
+            300.0,
+            602.0
+          ],
+          [
+            280.0,
+            622.0
+          ]
+        ],
+        "crack_type": "斜向裂缝",
+        "suggestion_type": "斜向裂缝",
+        "severity": "较重",
+        "review_status": "已通过",
+        "review_comment": "",
+        "locked": true,
+        "ignored": false,
+        "source": "自动识别",
+        "width_samples": [
+          {
+            "p1": [
+              327.0,
+              571.0
+            ],
+            "p2": [
+              323.0,
+              570.0
+            ],
+            "width_mm": 4.123105625617661,
+            "created_at": "17:57:23"
+          },
+          {
+            "p1": [
+              312.0,
+              595.0
+            ],
+            "p2": [
+              309.0,
+              591.0
+            ],
+            "width_mm": 5.0,
+            "created_at": "17:57:23"
+          },
+          {
+            "p1": [
+              304.0,
+              626.0
+            ],
+            "p2": [
+              287.0,
+              609.0
+            ],
+            "width_mm": 24.041630560342615,
+            "created_at": "17:57:23"
+          }
+        ],
+        "repair_method": "开槽灌缝",
+        "material_amount": 0.2624829829246691,
+        "material_unit": "升",
+        "station": "未绑定",
+        "created_at": "2026-06-09 17:57:23"
+      },
+      {
+        "crack_id": "裂缝-95d7562a",
+        "points": [
+          [
+            938.0,
+            670.0
+          ],
+          [
+            912.0,
+            666.0
+          ],
+          [
+            886.0,
+            664.0
+          ],
+          [
+            862.0,
+            660.0
+          ],
+          [
+            838.0,
+            658.0
+          ]
+        ],
+        "crack_type": "横向裂缝",
+        "suggestion_type": "横向裂缝",
+        "severity": "较重",
+        "review_status": "待复核",
+        "review_comment": "",
+        "locked": false,
+        "ignored": false,
+        "source": "自动识别",
+        "width_samples": [
+          {
+            "p1": [
+              899.0,
+              667.0
+            ],
+            "p2": [
+              901.0,
+              637.0
+            ],
+            "width_mm": 30.066592756745816,
+            "created_at": "17:57:23"
+          },
+          {
+            "p1": [
+              899.0,
+              667.0
+            ],
+            "p2": [
+              901.0,
+              637.0
+            ],
+            "width_mm": 30.066592756745816,
+            "created_at": "17:57:23"
+          },
+          {
+            "p1": [
+              899.0,
+              667.0
+            ],
+            "p2": [
+              901.0,
+              637.0
+            ],
+            "width_mm": 30.066592756745816,
+            "created_at": "17:57:23"
+          }
+        ],
+        "repair_method": "开槽灌缝",
+        "material_amount": 0.6600018194444839,
+        "material_unit": "升",
+        "station": "未绑定",
+        "created_at": "2026-06-09 17:57:23"
+      },
+      {
+        "crack_id": "裂缝-399c9711",
+        "points": [
+          [
+            280.0,
+            488.0
+          ],
+          [
+            250.0,
+            484.0
+          ],
+          [
+            222.0,
+            480.0
+          ],
+          [
+            195.0,
+            478.0
+          ],
+          [
+            166.0,
+            474.0
+          ]
+        ],
+        "crack_type": "横向裂缝",
+        "suggestion_type": "横向裂缝",
+        "severity": "轻微",
+        "review_status": "待复核",
+        "review_comment": "",
+        "locked": false,
+        "ignored": false,
+        "source": "自动识别",
+        "width_samples": [],
+        "repair_method": "灌缝胶修补",
+        "material_amount": 0.014890819450125324,
+        "material_unit": "升",
+        "station": "未绑定",
+        "created_at": "2026-06-09 17:57:23"
+      }
+    ],
+    "regions": [],
+    "candidates": [],
+    "review_logs": [
+      {
+        "crack_id": "裂缝-83cb6094",
+        "reviewer": "当前复核员",
+        "result": "通过并锁定",
+        "comment": "",
+        "created_at": "2026-06-09 17:58:10"
+      }
+    ],
+    "created_at": "2026-06-09 17:57:18",
+    "updated_at": "2026-06-09 17:59:09"
+  }
+]

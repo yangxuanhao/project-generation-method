@@ -1,0 +1,6 @@
+person
+helmet
+no_helmet
+vest
+vehicle
+warning_sign

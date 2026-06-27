@@ -1,0 +1,16 @@
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.idea/
+.vscode/
+
+# Claude
+.claude/
+
+# Large/generated files
+*.zip
+*.rar
+*.7z
+*.log

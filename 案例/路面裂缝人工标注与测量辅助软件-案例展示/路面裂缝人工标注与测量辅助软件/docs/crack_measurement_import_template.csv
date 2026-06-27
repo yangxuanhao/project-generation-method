@@ -1,0 +1,2 @@
+﻿road_name,station_start,station_end,crack_type,length_m,avg_width_mm,max_width_mm,severity,repair_method
+G320示范路段,K12+000,K12+100,纵向裂缝,3.2,2.8,4.1,一般,灌缝胶修补

@@ -1,0 +1,45 @@
+<?xml version="1.0" ?>
+<annotation>
+  <filename>municipal_worker_05.jpg</filename>
+  <size>
+    <width>403</width>
+    <height>247</height>
+    <depth>3</depth>
+  </size>
+  <object>
+    <name>person</name>
+    <bndbox>
+      <xmin>258</xmin>
+      <ymin>30</ymin>
+      <xmax>334</xmax>
+      <ymax>224</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>vest</name>
+    <bndbox>
+      <xmin>258</xmin>
+      <ymin>72</ymin>
+      <xmax>330</xmax>
+      <ymax>168</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>helmet</name>
+    <bndbox>
+      <xmin>284</xmin>
+      <ymin>30</ymin>
+      <xmax>320</xmax>
+      <ymax>57</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>vehicle</name>
+    <bndbox>
+      <xmin>126</xmin>
+      <ymin>86</ymin>
+      <xmax>252</xmax>
+      <ymax>224</ymax>
+    </bndbox>
+  </object>
+</annotation>
